@@ -11,3 +11,66 @@ Do they feel like they have had sufficient reading practice:
 Do they feel like they have had sufficient writing practice:
 Do they feel like they have had sufficient listening practice:
 
+
+
+1 to 5 posible format
+
+Strongly Disagree (1)	Disagree (2)	Neutral (3)	Agree (4)	Strongly Agree (5)
+
+
+# Background 
+1.	For how long have you studied Spanish? (Number of years / semesters?)
+  a.	How did you started learning Spanish? (F2F, online, hybrid)
+2.	Have you ever been enrolled in an online course before covid?
+  a.	Was it any different?
+3.	How far do you live from campus? 
+4.	On a scale from 1 to 5 how online classes helped/ affected you (commutes, interpersonal relations with other students, comfortableness of being home,etc). 
+5.	Are you currently working while taking courses at Rugers? 
+  a.	If so, how many hours? 
+
+# Online learning
+1.	On a scale from 1 to 5, how comfortable do you feel using Canvas? 
+2.	On a scale from 1 to 5, how comfortable do you feel using Zoom?
+3.	On a scale from 1 to 5, how comfortable do you feel using Voice Thread?  (select if apply?)
+4.	On a scale from 1 to 5, how comfortable do you feel using your online book/ homework?
+5.	Have you ever used language learning apps, such as Duolingo, to improve your Spanish? 
+
+# Maybe oriented for students with needs? (we could use this table for all the questions that we have such as “On a scale from 1 to 5 how…”)
+
+1) I have access to a computer whenever I need it
+2) I have access to a reliable Internet connection whenever I need it
+3) I have access to the software and networked resources for teaching whenever I need it. 
+
+
+# Attitudes 
+(we could ask this questions on the same format “on a scale from 1 to 5”)
+1.	On a scale from 1 to 5, how effective you believe online language education is?=
+2.	If any what would you say you were/are missing while being Online
+3.	If any what would you say you were/are missing while being Face to Face
+4.	On a scale from 1 to 5 do you feel less anxiety while being in an online class?
+5.	On a scale from 1 to 5 do you feel less anxiety while being face to face?
+6.	Did you experience/d boredom or other experiences related to the use of online and digital tools? Can you explain which ones and why?
+7.	Are there other aspects of online language teaching that are valuable, especially in comparison to face-to-face instruction?
+8.	What do you particularly like when you were learning a second or foreign language?
+9.	On a scale from 1 to 5 how useful since you do not need to commute?
+10.	On a scale from 1 to 5 how useful is it in face-to-face? 
+11.	On a scale from 1 to 5, how comfortable do you feel with online classes?
+12.	On a scale from 1 to 5, how comfortable do you feel with face-to-face classes?
+13.	On a scale from 1 to 5, how do you rate communication with teachers while being online?
+14.	On a scale from 1 to 5, how do you rate communication with teachers while being face to face?
+15.	On a scale from 1 to 5, online classes lets you work at your own pace.
+16.	On a scale from 1 to 5 how do you rate time management while being online? 
+17.	On a scale from 1 to 5 how do you rate time management while being face-to-face? 
+18.	On a scale from 1 to 5 how do you rate language anxiety learning online  
+19.	On a scale from 1 to 5 how do you rate language anxiety learning face to face
+20.	Do online classes facilitate you having a job while attending to clasface-to-face. select if applies?) 
+21.	Do you think online education is similar to face to face or is it more efficient? 
+
+
+# Enrollment questions 
+22.	On a scale from 1 to 5 how do you rate the usefulness of learning Spanish? 
+23.	On a scale from 1 to 5 how do you rate others (family, friends, colleagues) rate the usefulness of learning Spanish? 
+24.	On a scale from 1 to 5 how useful do you think it is being enrolled in a Spanish course in comparison to others such as psychology, economics, or law? 
+25.	On a scale from 1 to 5 how do the social-economic situation of the world (war, inflation, crisis) affect you into your course choices at the university? 
+
+
