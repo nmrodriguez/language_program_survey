@@ -64,7 +64,9 @@ Strongly Disagree (1)	Disagree (2)	Neutral (3)	Agree (4)	Strongly Agree (5)
 18.	On a scale from 1 to 5 how do you rate language anxiety learning online  
 19.	On a scale from 1 to 5 how do you rate language anxiety learning face to face
 20.	Do online classes facilitate you having a job while attending to clasface-to-face. select if applies?) 
-21.	Do you think online education is similar to face to face or is it more efficient? 
+22. On a scale from 1 to 5 how being online helps you with everyday activities outside from univeristy (work, family dutes, personal issues,etc)
+23. On a scale from 1 to 5 how being face-to face helps you with everyday activities outside from univeristy (work, family dutes, personal issues,etc)
+24.	Do you think online education is similar to face to face or is it more efficient? 
 
 
 # Enrollment questions 
