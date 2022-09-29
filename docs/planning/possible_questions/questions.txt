@@ -45,27 +45,27 @@ Strongly Disagree (1)	Disagree (2)	Neutral (3)	Agree (4)	Strongly Agree (5)
 # Attitudes 
 (we could ask this questions on the same format “on a scale from 1 to 5”)
 1.	On a scale from 1 to 5, how effective you believe online language education is?=
-2.	If any what would you say you were/are missing while being Online
-3.	If any what would you say you were/are missing while being Face to Face
+*2.	If any what would you say you were/are missing while being Online
+*3.	If any what would you say you were/are missing while being Face to Face
 4.	On a scale from 1 to 5 do you feel less anxiety while being in an online class?
 5.	On a scale from 1 to 5 do you feel less anxiety while being face to face?
-6.	Did you experience/d boredom or other experiences related to the use of online and digital tools? Can you explain which ones and why?
+*6.	Did you experience/d boredom or other experiences related to the use of online and digital tools? Can you explain which ones and why?
 7.	Are there other aspects of online language teaching that are valuable, especially in comparison to face-to-face instruction?
-8.	What do you particularly like when you were learning a second or foreign language?
-9.	On a scale from 1 to 5 how useful since you do not need to commute?
-10.	On a scale from 1 to 5 how useful is it in face-to-face? 
+*8.	What do you particularly like when you were learning a second or foreign language?
+*9.	On a scale from 1 to 5 how useful since you do not need to commute?
+*10.	On a scale from 1 to 5 how useful is it in face-to-face? 
 11.	On a scale from 1 to 5, how comfortable do you feel with online classes?
 12.	On a scale from 1 to 5, how comfortable do you feel with face-to-face classes?
 13.	On a scale from 1 to 5, how do you rate communication with teachers while being online?
 14.	On a scale from 1 to 5, how do you rate communication with teachers while being face to face?
-15.	On a scale from 1 to 5, online classes lets you work at your own pace.
+*15.	On a scale from 1 to 5, online classes lets you work at your own pace.
 16.	On a scale from 1 to 5 how do you rate time management while being online? 
 17.	On a scale from 1 to 5 how do you rate time management while being face-to-face? 
-18.	On a scale from 1 to 5 how do you rate language anxiety learning online  
-19.	On a scale from 1 to 5 how do you rate language anxiety learning face to face
-20.	Do online classes facilitate you having a job while attending to clasface-to-face. select if applies?) 
-22. On a scale from 1 to 5 how being online helps you with everyday activities outside from univeristy (work, family dutes, personal issues,etc)
-23. On a scale from 1 to 5 how being face-to face helps you with everyday activities outside from univeristy (work, family dutes, personal issues,etc)
+*18.	On a scale from 1 to 5 how do you rate language anxiety learning online  
+*19.	On a scale from 1 to 5 how do you rate language anxiety learning face to face
+e20.	Do online classes facilitate you having a job while attending to clasface-to-face. select if applies?) 
+e22. On a scale from 1 to 5 how being online helps you with everyday activities outside from univeristy (work, family dutes, personal issues,etc)
+e23. On a scale from 1 to 5 how being face-to face helps you with everyday activities outside from univeristy (work, family dutes, personal issues,etc)
 24.	Do you think online education is similar to face to face or is it more efficient? 
 
 
@@ -73,7 +73,7 @@ Strongly Disagree (1)	Disagree (2)	Neutral (3)	Agree (4)	Strongly Agree (5)
 22.	On a scale from 1 to 5 how do you rate the usefulness of learning Spanish? 
 23.	On a scale from 1 to 5 how do you rate others (family, friends, colleagues) rate the usefulness of learning Spanish? 
 24.	On a scale from 1 to 5 how useful do you think it is being enrolled in a Spanish course in comparison to others such as psychology, economics, or law? 
-25.	On a scale from 1 to 5 how do the social-economic situation of the world (war, inflation, crisis) affect you into your course choices at the university? 
+*25.	On a scale from 1 to 5 how do the social-economic situation of the world (war, inflation, crisis) affect you into your course choices at the university? 
 26.	On a scale from 1 to 5 how much do you think taking a Spanish class will help you in your life (communication, job finding, etc)
 
 
