@@ -72,5 +72,6 @@ Strongly Disagree (1)	Disagree (2)	Neutral (3)	Agree (4)	Strongly Agree (5)
 23.	On a scale from 1 to 5 how do you rate others (family, friends, colleagues) rate the usefulness of learning Spanish? 
 24.	On a scale from 1 to 5 how useful do you think it is being enrolled in a Spanish course in comparison to others such as psychology, economics, or law? 
 25.	On a scale from 1 to 5 how do the social-economic situation of the world (war, inflation, crisis) affect you into your course choices at the university? 
+26.	On a scale from 1 to 5 how much do you think taking a Spanish class will help you in your life (communication, job finding, etc)
 
 
