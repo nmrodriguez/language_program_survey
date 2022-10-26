@@ -1,0 +1,24 @@
+# Load libraries ----------------------------------------------------
+
+library("dplyr")
+library("tidyr")
+library("readr")
+library("here")
+library("glue")
+library("ggplot2")
+library("ggbeeswarm")
+library("forcats")
+library("fs")
+library("purrr")
+library("patchwork")
+library("psycho")
+library("stringr")
+library("polypoly")
+library("corrplot")
+library("ggdist")
+library("flextable")
+library("knitr")
+library("wordcloud")
+library("RColorBrewer")
+
+# -----------------------------------------------------------------------------
