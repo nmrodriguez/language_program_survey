@@ -1,0 +1,365 @@
+responseid,id,age,class_format,year,online_pre,commute,work,work_hours,motivation,progress,practicerate,practicerate,motivation,efficient,effective,format_anxiety,anxiety,help_job
+101,BH,18-25,h,1,No,1-5 miles away,Yes,0-5 hours,I signed up for Spanish in part to fulfill the core curriculum and in part because I am considering a major/minor in Spanish.,Yes,speaking,4,Face-to-face,Niether,4,online,4,No
+101,BH,18-25,h,1,No,1-5 miles away,Yes,0-5 hours,I signed up for Spanish in part to fulfill the core curriculum and in part because I am considering a major/minor in Spanish.,Yes,reading,5,Face-to-face,Niether,4,face,3,No
+101,BH,18-25,h,1,No,1-5 miles away,Yes,0-5 hours,I signed up for Spanish in part to fulfill the core curriculum and in part because I am considering a major/minor in Spanish.,Yes,writing,4,Face-to-face,Niether,4,hybrid,3,No
+101,BH,18-25,h,1,No,1-5 miles away,Yes,0-5 hours,I signed up for Spanish in part to fulfill the core curriculum and in part because I am considering a major/minor in Spanish.,Yes,listening,5,Face-to-face,Niether,4,,,No
+102,LC,18-25,h,4,No,20+ miles away,Yes,20 + hours,I’ve always wanted to learn Spanish. ,Yes,speaking,5,Face-to-face,Niether,3,online,4,No
+102,LC,18-25,h,4,No,20+ miles away,Yes,20 + hours,I’ve always wanted to learn Spanish. ,Yes,reading,5,Face-to-face,Niether,3,face,3,No
+102,LC,18-25,h,4,No,20+ miles away,Yes,20 + hours,I’ve always wanted to learn Spanish. ,Yes,writing,4,Face-to-face,Niether,3,hybrid,3,No
+102,LC,18-25,h,4,No,20+ miles away,Yes,20 + hours,I’ve always wanted to learn Spanish. ,Yes,listening,4,Face-to-face,Niether,3,,,No
+103,ZJ,18-25,o,3,No,20+ miles away,Yes,10-15 hours,I need a language requirement for the Honors program. ,Yes,speaking,3,Online,More efficient,4,online,1,Yes
+103,ZJ,18-25,o,3,No,20+ miles away,Yes,10-15 hours,I need a language requirement for the Honors program. ,Yes,reading,5,Online,More efficient,4,face,4,Yes
+103,ZJ,18-25,o,3,No,20+ miles away,Yes,10-15 hours,I need a language requirement for the Honors program. ,Yes,writing,5,Online,More efficient,4,hybrid,3,Yes
+103,ZJ,18-25,o,3,No,20+ miles away,Yes,10-15 hours,I need a language requirement for the Honors program. ,Yes,listening,2,Online,More efficient,4,,,Yes
+104,KD,18-25,o,2,No,1-5 miles away,No,,"I need to take language courses to graduate as a part of my honors program, but I chose Spanish in particular because my mother's side of the family speaks fluent Spanish.",Yes,speaking,4,Online,More efficient,4,online,1,Yes
+104,KD,18-25,o,2,No,1-5 miles away,No,,"I need to take language courses to graduate as a part of my honors program, but I chose Spanish in particular because my mother's side of the family speaks fluent Spanish.",Yes,reading,4,Online,More efficient,4,face,5,Yes
+104,KD,18-25,o,2,No,1-5 miles away,No,,"I need to take language courses to graduate as a part of my honors program, but I chose Spanish in particular because my mother's side of the family speaks fluent Spanish.",Yes,writing,5,Online,More efficient,4,hybrid,3,Yes
+104,KD,18-25,o,2,No,1-5 miles away,No,,"I need to take language courses to graduate as a part of my honors program, but I chose Spanish in particular because my mother's side of the family speaks fluent Spanish.",Yes,listening,4,Online,More efficient,4,,,Yes
+105,FH,18-25,o,1,No,1-5 miles away,Yes,10-15 hours,I'd like to minor in Global and International Studies and saw that there was a language requirement.  ,Yes,speaking,4,Online,Niether,4,online,2,Yes
+105,FH,18-25,o,1,No,1-5 miles away,Yes,10-15 hours,I'd like to minor in Global and International Studies and saw that there was a language requirement.  ,Yes,reading,4,Online,Niether,4,face,4,Yes
+105,FH,18-25,o,1,No,1-5 miles away,Yes,10-15 hours,I'd like to minor in Global and International Studies and saw that there was a language requirement.  ,Yes,writing,4,Online,Niether,4,hybrid,,Yes
+105,FH,18-25,o,1,No,1-5 miles away,Yes,10-15 hours,I'd like to minor in Global and International Studies and saw that there was a language requirement.  ,Yes,listening,4,Online,Niether,4,,,Yes
+106,GF,18-25,o,2,No,1-5 miles away,No,,"Quite frankly, I need to take a language class for my degree, but I chose Spanish because it's very applicable to living in the United States. A lot of people speak Spanish and it would be nice to be more able to communicate with people in my community and neighborhood.",Yes,speaking,3,Face-to-face,Niether,2,online,2,Yes
+106,GF,18-25,o,2,No,1-5 miles away,No,,"Quite frankly, I need to take a language class for my degree, but I chose Spanish because it's very applicable to living in the United States. A lot of people speak Spanish and it would be nice to be more able to communicate with people in my community and neighborhood.",Yes,reading,4,Face-to-face,Niether,2,face,4,Yes
+106,GF,18-25,o,2,No,1-5 miles away,No,,"Quite frankly, I need to take a language class for my degree, but I chose Spanish because it's very applicable to living in the United States. A lot of people speak Spanish and it would be nice to be more able to communicate with people in my community and neighborhood.",Yes,writing,3,Face-to-face,Niether,2,hybrid,4,Yes
+106,GF,18-25,o,2,No,1-5 miles away,No,,"Quite frankly, I need to take a language class for my degree, but I chose Spanish because it's very applicable to living in the United States. A lot of people speak Spanish and it would be nice to be more able to communicate with people in my community and neighborhood.",Yes,listening,3,Face-to-face,Niether,2,,,Yes
+107,MG,18-25,f,1,No,1-5 miles away,No,,I am double majoring in Spanish and English which is why I am currently enrolled in another language. I love being able to expand my knowledge and learn new things considering that Spanish is my second language,Yes,speaking,4,Face-to-face,Niether,3,online,3,N/A
+107,MG,18-25,f,1,No,1-5 miles away,No,,I am double majoring in Spanish and English which is why I am currently enrolled in another language. I love being able to expand my knowledge and learn new things considering that Spanish is my second language,Yes,reading,4,Face-to-face,Niether,3,face,1,N/A
+107,MG,18-25,f,1,No,1-5 miles away,No,,I am double majoring in Spanish and English which is why I am currently enrolled in another language. I love being able to expand my knowledge and learn new things considering that Spanish is my second language,Yes,writing,5,Face-to-face,Niether,3,hybrid,2,N/A
+107,MG,18-25,f,1,No,1-5 miles away,No,,I am double majoring in Spanish and English which is why I am currently enrolled in another language. I love being able to expand my knowledge and learn new things considering that Spanish is my second language,Yes,listening,4,Face-to-face,Niether,3,,,N/A
+108,AR,18-25,f,1,No,1-5 miles away,No,,"I've been taking spanish forever and wanted to master the language, also it fills out requirements",Yes,speaking,5,Face-to-face,Niether,3,online,4,N/A
+108,AR,18-25,f,1,No,1-5 miles away,No,,"I've been taking spanish forever and wanted to master the language, also it fills out requirements",Yes,reading,5,Face-to-face,Niether,3,face,1,N/A
+108,AR,18-25,f,1,No,1-5 miles away,No,,"I've been taking spanish forever and wanted to master the language, also it fills out requirements",Yes,writing,4,Face-to-face,Niether,3,hybrid,2,N/A
+108,AR,18-25,f,1,No,1-5 miles away,No,,"I've been taking spanish forever and wanted to master the language, also it fills out requirements",Yes,listening,5,Face-to-face,Niether,3,,,N/A
+109,JS,18-25,f,2,No,1-5 miles away,Yes,15-20 hours,I am puerto rican and want to better learn my language. ,Yes,speaking,3,Face-to-face,Niether,2,online,1,Yes
+109,JS,18-25,f,2,No,1-5 miles away,Yes,15-20 hours,I am puerto rican and want to better learn my language. ,Yes,reading,4,Face-to-face,Niether,2,face,3,Yes
+109,JS,18-25,f,2,No,1-5 miles away,Yes,15-20 hours,I am puerto rican and want to better learn my language. ,Yes,writing,3,Face-to-face,Niether,2,hybrid,2,Yes
+109,JS,18-25,f,2,No,1-5 miles away,Yes,15-20 hours,I am puerto rican and want to better learn my language. ,Yes,listening,3,Face-to-face,Niether,2,,,Yes
+110,CC,18-25,f,1,No,1-5 miles away,No,,SAS Requirement,Yes,speaking,4,Face-to-face,Similar,4,online,2,N/A
+110,CC,18-25,f,1,No,1-5 miles away,No,,SAS Requirement,Yes,reading,4,Face-to-face,Similar,4,face,4,N/A
+110,CC,18-25,f,1,No,1-5 miles away,No,,SAS Requirement,Yes,writing,4,Face-to-face,Similar,4,hybrid,3,N/A
+110,CC,18-25,f,1,No,1-5 miles away,No,,SAS Requirement,Yes,listening,4,Face-to-face,Similar,4,,,N/A
+111,IA,18-25,f,2,No,16-20 miles away,No,,I wanted to continue to learn and become conversation in my Spanish learning.,Yes,speaking,4,Face-to-face,Niether,2,online,1,Yes
+111,IA,18-25,f,2,No,16-20 miles away,No,,I wanted to continue to learn and become conversation in my Spanish learning.,Yes,reading,4,Face-to-face,Niether,2,face,,Yes
+111,IA,18-25,f,2,No,16-20 miles away,No,,I wanted to continue to learn and become conversation in my Spanish learning.,Yes,writing,5,Face-to-face,Niether,2,hybrid,,Yes
+111,IA,18-25,f,2,No,16-20 miles away,No,,I wanted to continue to learn and become conversation in my Spanish learning.,Yes,listening,2,Face-to-face,Niether,2,,,Yes
+112,JE,18-25,f,1,No,20+ miles away,No,,I would like to be fluent in Spanish. I believe speaking another language strengthens communication skills and gives me the ability to talk to more people.,Yes,speaking,5,Face-to-face,Niether,1,online,1,Yes
+112,JE,18-25,f,1,No,20+ miles away,No,,I would like to be fluent in Spanish. I believe speaking another language strengthens communication skills and gives me the ability to talk to more people.,Yes,reading,5,Face-to-face,Niether,1,face,3,Yes
+112,JE,18-25,f,1,No,20+ miles away,No,,I would like to be fluent in Spanish. I believe speaking another language strengthens communication skills and gives me the ability to talk to more people.,Yes,writing,4,Face-to-face,Niether,1,hybrid,2,Yes
+112,JE,18-25,f,1,No,20+ miles away,No,,I would like to be fluent in Spanish. I believe speaking another language strengthens communication skills and gives me the ability to talk to more people.,Yes,listening,5,Face-to-face,Niether,1,,,Yes
+113,RS,18-25,f,2,No,1-5 miles away,No,,"I feel that a second language would be very helpful in life, also I want a minor in spanish",Yes,speaking,2,Face-to-face,Niether,2,online,1,N/A
+113,RS,18-25,f,2,No,1-5 miles away,No,,"I feel that a second language would be very helpful in life, also I want a minor in spanish",Yes,reading,5,Face-to-face,Niether,2,face,4,N/A
+113,RS,18-25,f,2,No,1-5 miles away,No,,"I feel that a second language would be very helpful in life, also I want a minor in spanish",Yes,writing,5,Face-to-face,Niether,2,hybrid,3,N/A
+113,RS,18-25,f,2,No,1-5 miles away,No,,"I feel that a second language would be very helpful in life, also I want a minor in spanish",Yes,listening,2,Face-to-face,Niether,2,,,N/A
+114,XX,18-25,f,2,No,20+ miles away,No,,"I had to complete Intermediate Spanish 132 in order to fulfill one of my SASHP requirements. In general, spanish is a common language in America which is why I chose it back in high school.",Yes,speaking,5,Face-to-face,Niether,3,online,2,N/A
+114,XX,18-25,f,2,No,20+ miles away,No,,"I had to complete Intermediate Spanish 132 in order to fulfill one of my SASHP requirements. In general, spanish is a common language in America which is why I chose it back in high school.",Yes,reading,5,Face-to-face,Niether,3,face,3,N/A
+114,XX,18-25,f,2,No,20+ miles away,No,,"I had to complete Intermediate Spanish 132 in order to fulfill one of my SASHP requirements. In general, spanish is a common language in America which is why I chose it back in high school.",Yes,writing,5,Face-to-face,Niether,3,hybrid,4,N/A
+114,XX,18-25,f,2,No,20+ miles away,No,,"I had to complete Intermediate Spanish 132 in order to fulfill one of my SASHP requirements. In general, spanish is a common language in America which is why I chose it back in high school.",Yes,listening,5,Face-to-face,Niether,3,,,N/A
+115,HR,18-25,h,1,No,1-5 miles away,No,,"I had to take at least one language class, so I thought I might as well wrap it up during this semester. I started learning Spanish because I had to learn some language, but I continued simply because I was interested in it.",Yes,speaking,4,Face-to-face,Niether,3,online,2,N/A
+115,HR,18-25,h,1,No,1-5 miles away,No,,"I had to take at least one language class, so I thought I might as well wrap it up during this semester. I started learning Spanish because I had to learn some language, but I continued simply because I was interested in it.",Yes,reading,5,Face-to-face,Niether,3,face,1,N/A
+115,HR,18-25,h,1,No,1-5 miles away,No,,"I had to take at least one language class, so I thought I might as well wrap it up during this semester. I started learning Spanish because I had to learn some language, but I continued simply because I was interested in it.",Yes,writing,3,Face-to-face,Niether,3,hybrid,1,N/A
+115,HR,18-25,h,1,No,1-5 miles away,No,,"I had to take at least one language class, so I thought I might as well wrap it up during this semester. I started learning Spanish because I had to learn some language, but I continued simply because I was interested in it.",Yes,listening,4,Face-to-face,Niether,3,,,N/A
+116,BE,18-25,f,2,No,20+ miles away,No,,SASHP and Spanish is a common language in America,Yes,speaking,5,Face-to-face,Niether,3,online,2,N/A
+116,BE,18-25,f,2,No,20+ miles away,No,,SASHP and Spanish is a common language in America,Yes,reading,5,Face-to-face,Niether,3,face,3,N/A
+116,BE,18-25,f,2,No,20+ miles away,No,,SASHP and Spanish is a common language in America,Yes,writing,5,Face-to-face,Niether,3,hybrid,3,N/A
+116,BE,18-25,f,2,No,20+ miles away,No,,SASHP and Spanish is a common language in America,Yes,listening,5,Face-to-face,Niether,3,,,N/A
+117,GE,18-25,o,2,No,20+ miles away,Yes,5-10 hours,It is a requirement for the Honors College.,Yes,speaking,5,Face-to-face,Similar,4,online,1,Yes
+117,GE,18-25,o,2,No,20+ miles away,Yes,5-10 hours,It is a requirement for the Honors College.,Yes,reading,5,Face-to-face,Similar,4,face,4,Yes
+117,GE,18-25,o,2,No,20+ miles away,Yes,5-10 hours,It is a requirement for the Honors College.,Yes,writing,5,Face-to-face,Similar,4,hybrid,3,Yes
+117,GE,18-25,o,2,No,20+ miles away,Yes,5-10 hours,It is a requirement for the Honors College.,Yes,listening,3,Face-to-face,Similar,4,,,Yes
+118,TD,18-25,f,3,Yes,1-5 miles away,No,,I want to be fluent in Spanish,Yes,speaking,2,Face-to-face,Niether,3,online,1,No
+118,TD,18-25,f,3,Yes,1-5 miles away,No,,I want to be fluent in Spanish,Yes,reading,2,Face-to-face,Niether,3,face,4,No
+118,TD,18-25,f,3,Yes,1-5 miles away,No,,I want to be fluent in Spanish,Yes,writing,3,Face-to-face,Niether,3,hybrid,3,No
+118,TD,18-25,f,3,Yes,1-5 miles away,No,,I want to be fluent in Spanish,Yes,listening,3,Face-to-face,Niether,3,,,No
+119,AP,18-25,f,1,No,1-5 miles away,No,,"I was required to take language courses as part of SASHP. However, I want to learn another language as well.",Yes,speaking,3,Face-to-face,Niether,3,online,,Yes
+119,AP,18-25,f,1,No,1-5 miles away,No,,"I was required to take language courses as part of SASHP. However, I want to learn another language as well.",Yes,reading,3,Face-to-face,Niether,3,face,,Yes
+119,AP,18-25,f,1,No,1-5 miles away,No,,"I was required to take language courses as part of SASHP. However, I want to learn another language as well.",Yes,writing,3,Face-to-face,Niether,3,hybrid,,Yes
+119,AP,18-25,f,1,No,1-5 miles away,No,,"I was required to take language courses as part of SASHP. However, I want to learn another language as well.",Yes,listening,2,Face-to-face,Niether,3,,,Yes
+120,APP,18-25,f,1,No,20+ miles away,No,,I need to take it for the Honors College. I wanted to learn Spanish because it would have the most practical use in my life. ,Yes,speaking,5,Face-to-face,Niether,3,online,1,Yes
+120,APP,18-25,f,1,No,20+ miles away,No,,I need to take it for the Honors College. I wanted to learn Spanish because it would have the most practical use in my life. ,Yes,reading,3,Face-to-face,Niether,3,face,5,Yes
+120,APP,18-25,f,1,No,20+ miles away,No,,I need to take it for the Honors College. I wanted to learn Spanish because it would have the most practical use in my life. ,Yes,writing,4,Face-to-face,Niether,3,hybrid,3,Yes
+120,APP,18-25,f,1,No,20+ miles away,No,,I need to take it for the Honors College. I wanted to learn Spanish because it would have the most practical use in my life. ,Yes,listening,2,Face-to-face,Niether,3,,,Yes
+121,SJ,18-25,f,1,Yes,10-15 miles away,No,,an honors requirement,Yes,speaking,5,Face-to-face,Niether,2,online,5,No
+121,SJ,18-25,f,1,Yes,10-15 miles away,No,,an honors requirement,Yes,reading,2,Face-to-face,Niether,2,face,4,No
+121,SJ,18-25,f,1,Yes,10-15 miles away,No,,an honors requirement,Yes,writing,3,Face-to-face,Niether,2,hybrid,2,No
+121,SJ,18-25,f,1,Yes,10-15 miles away,No,,an honors requirement,Yes,listening,2,Face-to-face,Niether,2,,,No
+122,NA,18-25,o,3,No,20+ miles away,Yes,0-5 hours,"i want to pursue a medical career in the future, so i think learning spanish would be beneficial ",Yes,speaking,5,Face-to-face,Similar,5,online,4,N/A
+122,NA,18-25,o,3,No,20+ miles away,Yes,0-5 hours,"i want to pursue a medical career in the future, so i think learning spanish would be beneficial ",Yes,reading,5,Face-to-face,Similar,5,face,5,N/A
+122,NA,18-25,o,3,No,20+ miles away,Yes,0-5 hours,"i want to pursue a medical career in the future, so i think learning spanish would be beneficial ",Yes,writing,5,Face-to-face,Similar,5,hybrid,4,N/A
+122,NA,18-25,o,3,No,20+ miles away,Yes,0-5 hours,"i want to pursue a medical career in the future, so i think learning spanish would be beneficial ",Yes,listening,5,Face-to-face,Similar,5,,,N/A
+123,EP,18-25,f,2,No,20+ miles away,No,,My current partner and their family are Hispanic and I want to communicate better with them.,Yes,speaking,4,Face-to-face,Similar,2,online,4,Yes
+123,EP,18-25,f,2,No,20+ miles away,No,,My current partner and their family are Hispanic and I want to communicate better with them.,Yes,reading,3,Face-to-face,Similar,2,face,2,Yes
+123,EP,18-25,f,2,No,20+ miles away,No,,My current partner and their family are Hispanic and I want to communicate better with them.,Yes,writing,3,Face-to-face,Similar,2,hybrid,2,Yes
+123,EP,18-25,f,2,No,20+ miles away,No,,My current partner and their family are Hispanic and I want to communicate better with them.,Yes,listening,4,Face-to-face,Similar,2,,,Yes
+124,NK,18-25,f,1,Yes,1-5 miles away,Yes,0-5 hours,Honors College requirement,Yes,speaking,4,Face-to-face,More efficient,3,online,2,Yes
+124,NK,18-25,f,1,Yes,1-5 miles away,Yes,0-5 hours,Honors College requirement,Yes,reading,5,Face-to-face,More efficient,3,face,3,Yes
+124,NK,18-25,f,1,Yes,1-5 miles away,Yes,0-5 hours,Honors College requirement,Yes,writing,2,Face-to-face,More efficient,3,hybrid,2,Yes
+124,NK,18-25,f,1,Yes,1-5 miles away,Yes,0-5 hours,Honors College requirement,Yes,listening,2,Face-to-face,More efficient,3,,,Yes
+125,AS,18-25,f,1,No,1-5 miles away,No,,SAS Honors program requirement,Yes,speaking,5,Online,Niether,4,online,2,N/A
+125,AS,18-25,f,1,No,1-5 miles away,No,,SAS Honors program requirement,Yes,reading,4,Online,Niether,4,face,2,N/A
+125,AS,18-25,f,1,No,1-5 miles away,No,,SAS Honors program requirement,Yes,writing,4,Online,Niether,4,hybrid,2,N/A
+125,AS,18-25,f,1,No,1-5 miles away,No,,SAS Honors program requirement,Yes,listening,4,Online,Niether,4,,,N/A
+126,RP,18-25,f,3,No,20+ miles away,Yes,5-10 hours,I plan on going into the medical field and speaking Spanish is an important skill to have. Additionally I am in the Honors College and I have a language requirement. I decided to study Spanish due to my career plans and this started studying Spanish from the 101 level because I have never taken Spanish in high school.,Yes,speaking,4,Face-to-face,Niether,3,online,1,Yes
+126,RP,18-25,f,3,No,20+ miles away,Yes,5-10 hours,I plan on going into the medical field and speaking Spanish is an important skill to have. Additionally I am in the Honors College and I have a language requirement. I decided to study Spanish due to my career plans and this started studying Spanish from the 101 level because I have never taken Spanish in high school.,Yes,reading,4,Face-to-face,Niether,3,face,4,Yes
+126,RP,18-25,f,3,No,20+ miles away,Yes,5-10 hours,I plan on going into the medical field and speaking Spanish is an important skill to have. Additionally I am in the Honors College and I have a language requirement. I decided to study Spanish due to my career plans and this started studying Spanish from the 101 level because I have never taken Spanish in high school.,Yes,writing,5,Face-to-face,Niether,3,hybrid,3,Yes
+126,RP,18-25,f,3,No,20+ miles away,Yes,5-10 hours,I plan on going into the medical field and speaking Spanish is an important skill to have. Additionally I am in the Honors College and I have a language requirement. I decided to study Spanish due to my career plans and this started studying Spanish from the 101 level because I have never taken Spanish in high school.,Yes,listening,3,Face-to-face,Niether,3,,,Yes
+127,JY,18-25,f,2,No,1-5 miles away,Yes,10-15 hours,I love learning languages,Yes,speaking,3,Face-to-face,Niether,1,online,5,N/A
+127,JY,18-25,f,2,No,1-5 miles away,Yes,10-15 hours,I love learning languages,Yes,reading,2,Face-to-face,Niether,1,face,1,N/A
+127,JY,18-25,f,2,No,1-5 miles away,Yes,10-15 hours,I love learning languages,Yes,writing,2,Face-to-face,Niether,1,hybrid,4,N/A
+127,JY,18-25,f,2,No,1-5 miles away,Yes,10-15 hours,I love learning languages,Yes,listening,3,Face-to-face,Niether,1,,,N/A
+128,LL,18-25,o,4,No,1-5 miles away,Yes,20 + hours,I needed two take two intermediate language courses for my minor,No,speaking,5,Face-to-face,Similar,3,online,1,Yes
+128,LL,18-25,o,4,No,1-5 miles away,Yes,20 + hours,I needed two take two intermediate language courses for my minor,No,reading,5,Face-to-face,Similar,3,face,5,Yes
+128,LL,18-25,o,4,No,1-5 miles away,Yes,20 + hours,I needed two take two intermediate language courses for my minor,No,writing,5,Face-to-face,Similar,3,hybrid,3,Yes
+128,LL,18-25,o,4,No,1-5 miles away,Yes,20 + hours,I needed two take two intermediate language courses for my minor,No,listening,2,Face-to-face,Similar,3,,,Yes
+129,SJ,18-25,f,1,No,10-15 miles away,No,,honors requirement to be proficient in a language,Yes,speaking,5,Face-to-face,Niether,2,online,2,N/A
+129,SJ,18-25,f,1,No,10-15 miles away,No,,honors requirement to be proficient in a language,Yes,reading,4,Face-to-face,Niether,2,face,5,N/A
+129,SJ,18-25,f,1,No,10-15 miles away,No,,honors requirement to be proficient in a language,Yes,writing,2,Face-to-face,Niether,2,hybrid,2,N/A
+129,SJ,18-25,f,1,No,10-15 miles away,No,,honors requirement to be proficient in a language,Yes,listening,1,Face-to-face,Niether,2,,,N/A
+130,KR,18-25,f,1,No,16-20 miles away,No,,"I am enrolled in the Honors Program here at Rutgers so it is a requirement, but for my job I think learning Spanish could b useful.",Yes,speaking,3,Face-to-face,Niether,2,online,4,N/A
+130,KR,18-25,f,1,No,16-20 miles away,No,,"I am enrolled in the Honors Program here at Rutgers so it is a requirement, but for my job I think learning Spanish could b useful.",Yes,reading,2,Face-to-face,Niether,2,face,2,N/A
+130,KR,18-25,f,1,No,16-20 miles away,No,,"I am enrolled in the Honors Program here at Rutgers so it is a requirement, but for my job I think learning Spanish could b useful.",Yes,writing,3,Face-to-face,Niether,2,hybrid,3,N/A
+130,KR,18-25,f,1,No,16-20 miles away,No,,"I am enrolled in the Honors Program here at Rutgers so it is a requirement, but for my job I think learning Spanish could b useful.",Yes,listening,2,Face-to-face,Niether,2,,,N/A
+131,AB,18-25,f,2,No,16-20 miles away,No,,"I wanted to learn Spanish because it applies to the medical field. If I have a Spanish speaking patient as a doctor, I would like to effectively communicate with them.",Yes,speaking,4,Face-to-face,Niether,3,online,4,Yes
+131,AB,18-25,f,2,No,16-20 miles away,No,,"I wanted to learn Spanish because it applies to the medical field. If I have a Spanish speaking patient as a doctor, I would like to effectively communicate with them.",Yes,reading,4,Face-to-face,Niether,3,face,4,Yes
+131,AB,18-25,f,2,No,16-20 miles away,No,,"I wanted to learn Spanish because it applies to the medical field. If I have a Spanish speaking patient as a doctor, I would like to effectively communicate with them.",Yes,writing,4,Face-to-face,Niether,3,hybrid,4,Yes
+131,AB,18-25,f,2,No,16-20 miles away,No,,"I wanted to learn Spanish because it applies to the medical field. If I have a Spanish speaking patient as a doctor, I would like to effectively communicate with them.",Yes,listening,4,Face-to-face,Niether,3,,,Yes
+132,DB,18-25,o,2,No,10-15 miles away,Yes,5-10 hours,It is a requirement to take 2 semesters of a language for the SASHP.,Yes,speaking,3,Online,More efficient,3,online,1,N/A
+132,DB,18-25,o,2,No,10-15 miles away,Yes,5-10 hours,It is a requirement to take 2 semesters of a language for the SASHP.,Yes,reading,3,Online,More efficient,3,face,5,N/A
+132,DB,18-25,o,2,No,10-15 miles away,Yes,5-10 hours,It is a requirement to take 2 semesters of a language for the SASHP.,Yes,writing,3,Online,More efficient,3,hybrid,4,N/A
+132,DB,18-25,o,2,No,10-15 miles away,Yes,5-10 hours,It is a requirement to take 2 semesters of a language for the SASHP.,Yes,listening,3,Online,More efficient,3,,,N/A
+133,SP,18-25,f,1,No,10-15 miles away,No,,I wanted to further my level in spanish and be able to communicate with more people. I think this will also help with my future career.,Yes,speaking,4,Face-to-face,More efficient,2,online,2,Yes
+133,SP,18-25,f,1,No,10-15 miles away,No,,I wanted to further my level in spanish and be able to communicate with more people. I think this will also help with my future career.,Yes,reading,3,Face-to-face,More efficient,2,face,4,Yes
+133,SP,18-25,f,1,No,10-15 miles away,No,,I wanted to further my level in spanish and be able to communicate with more people. I think this will also help with my future career.,Yes,writing,4,Face-to-face,More efficient,2,hybrid,3,Yes
+133,SP,18-25,f,1,No,10-15 miles away,No,,I wanted to further my level in spanish and be able to communicate with more people. I think this will also help with my future career.,Yes,listening,3,Face-to-face,More efficient,2,,,Yes
+134,AD,18-25,f,2,Yes,10-15 miles away,Yes,10-15 hours,What motivated me was to be able to communicate with my dad's side of the family since most of them only speak spanish. ,Yes,speaking,2,Face-to-face,Similar,3,online,1,Yes
+134,AD,18-25,f,2,Yes,10-15 miles away,Yes,10-15 hours,What motivated me was to be able to communicate with my dad's side of the family since most of them only speak spanish. ,Yes,reading,4,Face-to-face,Similar,3,face,3,Yes
+134,AD,18-25,f,2,Yes,10-15 miles away,Yes,10-15 hours,What motivated me was to be able to communicate with my dad's side of the family since most of them only speak spanish. ,Yes,writing,3,Face-to-face,Similar,3,hybrid,2,Yes
+134,AD,18-25,f,2,Yes,10-15 miles away,Yes,10-15 hours,What motivated me was to be able to communicate with my dad's side of the family since most of them only speak spanish. ,Yes,listening,4,Face-to-face,Similar,3,,,Yes
+135,AS,18-25,f,1,No,5-10 miles away,No,,requirement for rutgers,Yes,speaking,4,Face-to-face,Niether,4,online,1,Yes
+135,AS,18-25,f,1,No,5-10 miles away,No,,requirement for rutgers,Yes,reading,4,Face-to-face,Niether,4,face,4,Yes
+135,AS,18-25,f,1,No,5-10 miles away,No,,requirement for rutgers,Yes,writing,4,Face-to-face,Niether,4,hybrid,3,Yes
+135,AS,18-25,f,1,No,5-10 miles away,No,,requirement for rutgers,Yes,listening,4,Face-to-face,Niether,4,,,Yes
+136,HF,18-25,f,1,No,1-5 miles away,No,,"Truthfully, to fulfill my Honors College SAS majors foreign language proficiency requirement, but also because it’s also good to learn another language especially since I’m majoring in human resource management.",Yes,speaking,3,Online,Similar,3,online,2,No
+136,HF,18-25,f,1,No,1-5 miles away,No,,"Truthfully, to fulfill my Honors College SAS majors foreign language proficiency requirement, but also because it’s also good to learn another language especially since I’m majoring in human resource management.",Yes,reading,3,Online,Similar,3,face,4,No
+136,HF,18-25,f,1,No,1-5 miles away,No,,"Truthfully, to fulfill my Honors College SAS majors foreign language proficiency requirement, but also because it’s also good to learn another language especially since I’m majoring in human resource management.",Yes,writing,3,Online,Similar,3,hybrid,3,No
+136,HF,18-25,f,1,No,1-5 miles away,No,,"Truthfully, to fulfill my Honors College SAS majors foreign language proficiency requirement, but also because it’s also good to learn another language especially since I’m majoring in human resource management.",Yes,listening,2,Online,Similar,3,,,No
+137,VG,18-25,o,2,Yes,1-5 miles away,No,,To fulfill the foreign language requirement for the Honors College.,Yes,speaking,5,Online,Similar,4,online,1,Yes
+137,VG,18-25,o,2,Yes,1-5 miles away,No,,To fulfill the foreign language requirement for the Honors College.,Yes,reading,5,Online,Similar,4,face,1,Yes
+137,VG,18-25,o,2,Yes,1-5 miles away,No,,To fulfill the foreign language requirement for the Honors College.,Yes,writing,5,Online,Similar,4,hybrid,1,Yes
+137,VG,18-25,o,2,Yes,1-5 miles away,No,,To fulfill the foreign language requirement for the Honors College.,Yes,listening,5,Online,Similar,4,,,Yes
+138,LB,18-25,f,1,No,20+ miles away,No,,I want to continue my Spanish education as I would love to ideally be fluent. I also have a goal of doing study abroad in a Spanish speaking country.,Yes,speaking,3,Online,Niether,2,online,3,Yes
+138,LB,18-25,f,1,No,20+ miles away,No,,I want to continue my Spanish education as I would love to ideally be fluent. I also have a goal of doing study abroad in a Spanish speaking country.,Yes,reading,4,Online,Niether,2,face,3,Yes
+138,LB,18-25,f,1,No,20+ miles away,No,,I want to continue my Spanish education as I would love to ideally be fluent. I also have a goal of doing study abroad in a Spanish speaking country.,Yes,writing,4,Online,Niether,2,hybrid,3,Yes
+138,LB,18-25,f,1,No,20+ miles away,No,,I want to continue my Spanish education as I would love to ideally be fluent. I also have a goal of doing study abroad in a Spanish speaking country.,Yes,listening,4,Online,Niether,2,,,Yes
+139,JS,18-25,o,2,No,10-15 miles away,Yes,5-10 hours,,Yes,speaking,5,Face-to-face,More efficient,1,online,1,Yes
+139,JS,18-25,o,2,No,10-15 miles away,Yes,5-10 hours,,Yes,reading,5,Face-to-face,More efficient,1,face,2,Yes
+139,JS,18-25,o,2,No,10-15 miles away,Yes,5-10 hours,,Yes,writing,4,Face-to-face,More efficient,1,hybrid,2,Yes
+139,JS,18-25,o,2,No,10-15 miles away,Yes,5-10 hours,,Yes,listening,5,Face-to-face,More efficient,1,,,Yes
+140,AP,18-25,f,1,No,1-5 miles away,No,,required to take the class for SASHP,Yes,speaking,3,Face-to-face,Niether,3,online,5,N/A
+140,AP,18-25,f,1,No,1-5 miles away,No,,required to take the class for SASHP,Yes,reading,3,Face-to-face,Niether,3,face,5,N/A
+140,AP,18-25,f,1,No,1-5 miles away,No,,required to take the class for SASHP,Yes,writing,3,Face-to-face,Niether,3,hybrid,3,N/A
+140,AP,18-25,f,1,No,1-5 miles away,No,,required to take the class for SASHP,Yes,listening,2,Face-to-face,Niether,3,,,N/A
+141,JK,18-25,f,1,No,20+ miles away,Yes,5-10 hours,I believe showing fluency in a second language will look better on my resume and make me more attractive to employers.,Yes,speaking,4,Face-to-face,Niether,1,online,1,No
+141,JK,18-25,f,1,No,20+ miles away,Yes,5-10 hours,I believe showing fluency in a second language will look better on my resume and make me more attractive to employers.,Yes,reading,4,Face-to-face,Niether,1,face,3,No
+141,JK,18-25,f,1,No,20+ miles away,Yes,5-10 hours,I believe showing fluency in a second language will look better on my resume and make me more attractive to employers.,Yes,writing,5,Face-to-face,Niether,1,hybrid,5,No
+141,JK,18-25,f,1,No,20+ miles away,Yes,5-10 hours,I believe showing fluency in a second language will look better on my resume and make me more attractive to employers.,Yes,listening,2,Face-to-face,Niether,1,,,No
+142,JW,18-25,f,1,No,20+ miles away,No,,I signed up to fill my requirement for the Honors College.,Yes,speaking,4,Face-to-face,Niether,2,online,4,N/A
+142,JW,18-25,f,1,No,20+ miles away,No,,I signed up to fill my requirement for the Honors College.,Yes,reading,5,Face-to-face,Niether,2,face,1,N/A
+142,JW,18-25,f,1,No,20+ miles away,No,,I signed up to fill my requirement for the Honors College.,Yes,writing,4,Face-to-face,Niether,2,hybrid,3,N/A
+142,JW,18-25,f,1,No,20+ miles away,No,,I signed up to fill my requirement for the Honors College.,Yes,listening,4,Face-to-face,Niether,2,,,N/A
+143,TA,18-25,f,1,No,5-10 miles away,No,,I needed it for the SAS Honors Program.,Yes,speaking,3,Face-to-face,Similar,2,online,1,Yes
+143,TA,18-25,f,1,No,5-10 miles away,No,,I needed it for the SAS Honors Program.,Yes,reading,3,Face-to-face,Similar,2,face,1,Yes
+143,TA,18-25,f,1,No,5-10 miles away,No,,I needed it for the SAS Honors Program.,Yes,writing,3,Face-to-face,Similar,2,hybrid,1,Yes
+143,TA,18-25,f,1,No,5-10 miles away,No,,I needed it for the SAS Honors Program.,Yes,listening,3,Face-to-face,Similar,2,,,Yes
+144,AD,18-25,o,3,No,10-15 miles away,Yes,5-10 hours,"As I am a part of the honors program, to finish my foreign language requirement",Yes,speaking,3,Face-to-face,Niether,3,online,2,Yes
+144,AD,18-25,o,3,No,10-15 miles away,Yes,5-10 hours,"As I am a part of the honors program, to finish my foreign language requirement",Yes,reading,4,Face-to-face,Niether,3,face,3,Yes
+144,AD,18-25,o,3,No,10-15 miles away,Yes,5-10 hours,"As I am a part of the honors program, to finish my foreign language requirement",Yes,writing,4,Face-to-face,Niether,3,hybrid,3,Yes
+144,AD,18-25,o,3,No,10-15 miles away,Yes,5-10 hours,"As I am a part of the honors program, to finish my foreign language requirement",Yes,listening,2,Face-to-face,Niether,3,,,Yes
+145,RP,18-25,f,1,No,1-5 miles away,No,,"I was motivated by the necessity of a language, in terms of how it can help me in my target profession, which is in healthcare. I was also influenced by a language course being a requirement for me.",Yes,speaking,4,Face-to-face,Niether,3,online,3,N/A
+145,RP,18-25,f,1,No,1-5 miles away,No,,"I was motivated by the necessity of a language, in terms of how it can help me in my target profession, which is in healthcare. I was also influenced by a language course being a requirement for me.",Yes,reading,4,Face-to-face,Niether,3,face,2,N/A
+145,RP,18-25,f,1,No,1-5 miles away,No,,"I was motivated by the necessity of a language, in terms of how it can help me in my target profession, which is in healthcare. I was also influenced by a language course being a requirement for me.",Yes,writing,5,Face-to-face,Niether,3,hybrid,2,N/A
+145,RP,18-25,f,1,No,1-5 miles away,No,,"I was motivated by the necessity of a language, in terms of how it can help me in my target profession, which is in healthcare. I was also influenced by a language course being a requirement for me.",Yes,listening,4,Face-to-face,Niether,3,,,N/A
+146,SR,18-25,h,2,No,16-20 miles away,Yes,5-10 hours,I wanted to continue learning Spanish because I have been learning it for so many years and didn't want to lose my connection with the language.,Yes,speaking,4,Face-to-face,Niether,4,online,3,Yes
+146,SR,18-25,h,2,No,16-20 miles away,Yes,5-10 hours,I wanted to continue learning Spanish because I have been learning it for so many years and didn't want to lose my connection with the language.,Yes,reading,3,Face-to-face,Niether,4,face,1,Yes
+146,SR,18-25,h,2,No,16-20 miles away,Yes,5-10 hours,I wanted to continue learning Spanish because I have been learning it for so many years and didn't want to lose my connection with the language.,Yes,writing,4,Face-to-face,Niether,4,hybrid,1,Yes
+146,SR,18-25,h,2,No,16-20 miles away,Yes,5-10 hours,I wanted to continue learning Spanish because I have been learning it for so many years and didn't want to lose my connection with the language.,Yes,listening,3,Face-to-face,Niether,4,,,Yes
+147,AK,18-25,o,2,No,1-5 miles away,Yes,10-15 hours,I needed to sign up for a language course to complete graduation requirements.,No,speaking,4,Online,More efficient,4,online,1,Yes
+147,AK,18-25,o,2,No,1-5 miles away,Yes,10-15 hours,I needed to sign up for a language course to complete graduation requirements.,No,reading,5,Online,More efficient,4,face,5,Yes
+147,AK,18-25,o,2,No,1-5 miles away,Yes,10-15 hours,I needed to sign up for a language course to complete graduation requirements.,No,writing,5,Online,More efficient,4,hybrid,2,Yes
+147,AK,18-25,o,2,No,1-5 miles away,Yes,10-15 hours,I needed to sign up for a language course to complete graduation requirements.,No,listening,4,Online,More efficient,4,,,Yes
+148,KR ,18-25,h,4,No,5-10 miles away,No,,I want to go into immigration law and I believe that learning Spanish will highly benefit me and allow me to help others. I am also extremely interested and intrigued by Latin culture.,Yes,speaking,4,Face-to-face,Niether,4,online,2,Yes
+148,KR ,18-25,h,4,No,5-10 miles away,No,,I want to go into immigration law and I believe that learning Spanish will highly benefit me and allow me to help others. I am also extremely interested and intrigued by Latin culture.,Yes,reading,4,Face-to-face,Niether,4,face,4,Yes
+148,KR ,18-25,h,4,No,5-10 miles away,No,,I want to go into immigration law and I believe that learning Spanish will highly benefit me and allow me to help others. I am also extremely interested and intrigued by Latin culture.,Yes,writing,3,Face-to-face,Niether,4,hybrid,2,Yes
+148,KR ,18-25,h,4,No,5-10 miles away,No,,I want to go into immigration law and I believe that learning Spanish will highly benefit me and allow me to help others. I am also extremely interested and intrigued by Latin culture.,Yes,listening,5,Face-to-face,Niether,4,,,Yes
+149,CHM,18-25,f,3,No,20+ miles away,Yes,10-15 hours,I want to be fluent in Spanish.,Yes,speaking,5,Face-to-face,Niether,3,online,5,Yes
+149,CHM,18-25,f,3,No,20+ miles away,Yes,10-15 hours,I want to be fluent in Spanish.,Yes,reading,4,Face-to-face,Niether,3,face,3,Yes
+149,CHM,18-25,f,3,No,20+ miles away,Yes,10-15 hours,I want to be fluent in Spanish.,Yes,writing,4,Face-to-face,Niether,3,hybrid,4,Yes
+149,CHM,18-25,f,3,No,20+ miles away,Yes,10-15 hours,I want to be fluent in Spanish.,Yes,listening,5,Face-to-face,Niether,3,,,Yes
+150,IL,18-25,f,3,No,1-5 miles away,No,,Didn't want Spanish before college to go to waste. Spanish is useful.,Yes,speaking,4,Face-to-face,Niether,3,online,2,Yes
+150,IL,18-25,f,3,No,1-5 miles away,No,,Didn't want Spanish before college to go to waste. Spanish is useful.,Yes,reading,4,Face-to-face,Niether,3,face,4,Yes
+150,IL,18-25,f,3,No,1-5 miles away,No,,Didn't want Spanish before college to go to waste. Spanish is useful.,Yes,writing,5,Face-to-face,Niether,3,hybrid,3,Yes
+150,IL,18-25,f,3,No,1-5 miles away,No,,Didn't want Spanish before college to go to waste. Spanish is useful.,Yes,listening,4,Face-to-face,Niether,3,,,Yes
+151,AS,18-25,f,2,No,1-5 miles away,No,,,Yes,speaking,5,,Similar,,online,3,N/A
+151,AS,18-25,f,2,No,1-5 miles away,No,,,Yes,reading,5,,Similar,,face,4,N/A
+151,AS,18-25,f,2,No,1-5 miles away,No,,,Yes,writing,5,,Similar,,hybrid,2,N/A
+151,AS,18-25,f,2,No,1-5 miles away,No,,,Yes,listening,5,,Similar,,,,N/A
+152,HR,18-25,f,1,Yes,20+ miles away,Yes,0-5 hours,My girlfriends mom only speaks Spanish ,Yes,speaking,5,Face-to-face,Niether,5,online,3,Yes
+152,HR,18-25,f,1,Yes,20+ miles away,Yes,0-5 hours,My girlfriends mom only speaks Spanish ,Yes,reading,5,Face-to-face,Niether,5,face,3,Yes
+152,HR,18-25,f,1,Yes,20+ miles away,Yes,0-5 hours,My girlfriends mom only speaks Spanish ,Yes,writing,5,Face-to-face,Niether,5,hybrid,3,Yes
+152,HR,18-25,f,1,Yes,20+ miles away,Yes,0-5 hours,My girlfriends mom only speaks Spanish ,Yes,listening,5,Face-to-face,Niether,5,,,Yes
+153,FJ,18-25,f,1,No,1-5 miles away,Yes,10-15 hours,I want to learn the spanish langauge ,Yes,speaking,2,Face-to-face,Niether,1,online,5,N/A
+153,FJ,18-25,f,1,No,1-5 miles away,Yes,10-15 hours,I want to learn the spanish langauge ,Yes,reading,3,Face-to-face,Niether,1,face,2,N/A
+153,FJ,18-25,f,1,No,1-5 miles away,Yes,10-15 hours,I want to learn the spanish langauge ,Yes,writing,2,Face-to-face,Niether,1,hybrid,3,N/A
+153,FJ,18-25,f,1,No,1-5 miles away,Yes,10-15 hours,I want to learn the spanish langauge ,Yes,listening,5,Face-to-face,Niether,1,,,N/A
+154,PR,18-25,f,1,No,1-5 miles away,No,,"Requirement for honors college, cultural ",No,speaking,1,Online,Niether,5,online,1,Yes
+154,PR,18-25,f,1,No,1-5 miles away,No,,"Requirement for honors college, cultural ",No,reading,1,Online,Niether,5,face,5,Yes
+154,PR,18-25,f,1,No,1-5 miles away,No,,"Requirement for honors college, cultural ",No,writing,1,Online,Niether,5,hybrid,1,Yes
+154,PR,18-25,f,1,No,1-5 miles away,No,,"Requirement for honors college, cultural ",No,listening,1,Online,Niether,5,,,Yes
+155,EG,18-25,f,1,No,20+ miles away,No,,expand my knowledge,Yes,speaking,3,Face-to-face,Niether,2,online,2,No
+155,EG,18-25,f,1,No,20+ miles away,No,,expand my knowledge,Yes,reading,5,Face-to-face,Niether,2,face,3,No
+155,EG,18-25,f,1,No,20+ miles away,No,,expand my knowledge,Yes,writing,4,Face-to-face,Niether,2,hybrid,3,No
+155,EG,18-25,f,1,No,20+ miles away,No,,expand my knowledge,Yes,listening,4,Face-to-face,Niether,2,,,No
+156,XM,18-25,f,1,No,20+ miles away,No,,It was a requirement,Yes,speaking,2,Face-to-face,Niether,3,online,5,N/A
+156,XM,18-25,f,1,No,20+ miles away,No,,It was a requirement,Yes,reading,4,Face-to-face,Niether,3,face,1,N/A
+156,XM,18-25,f,1,No,20+ miles away,No,,It was a requirement,Yes,writing,2,Face-to-face,Niether,3,hybrid,3,N/A
+156,XM,18-25,f,1,No,20+ miles away,No,,It was a requirement,Yes,listening,4,Face-to-face,Niether,3,,,N/A
+157,MK,18-25,f,1,No,1-5 miles away,No,,It was a requirement for SAS.,Yes,speaking,4,Face-to-face,Similar,4,online,3,Yes
+157,MK,18-25,f,1,No,1-5 miles away,No,,It was a requirement for SAS.,Yes,reading,4,Face-to-face,Similar,4,face,5,Yes
+157,MK,18-25,f,1,No,1-5 miles away,No,,It was a requirement for SAS.,Yes,writing,4,Face-to-face,Similar,4,hybrid,4,Yes
+157,MK,18-25,f,1,No,1-5 miles away,No,,It was a requirement for SAS.,Yes,listening,4,Face-to-face,Similar,4,,,Yes
+158,JS,18-25,f,1,No,1-5 miles away,No,,It was a requirement for the Honors College.,Yes,speaking,3,Face-to-face,More efficient,4,online,2,Yes
+158,JS,18-25,f,1,No,1-5 miles away,No,,It was a requirement for the Honors College.,Yes,reading,3,Face-to-face,More efficient,4,face,4,Yes
+158,JS,18-25,f,1,No,1-5 miles away,No,,It was a requirement for the Honors College.,Yes,writing,3,Face-to-face,More efficient,4,hybrid,2,Yes
+158,JS,18-25,f,1,No,1-5 miles away,No,,It was a requirement for the Honors College.,Yes,listening,4,Face-to-face,More efficient,4,,,Yes
+159,JJ,18-25,f,1,Yes,20+ miles away,Yes,10-15 hours,"good knowledge to take beyond educational instution, like to travel abroad to Spanish speaking countries in future",Yes,speaking,3,Face-to-face,More efficient,4,online,1,Yes
+159,JJ,18-25,f,1,Yes,20+ miles away,Yes,10-15 hours,"good knowledge to take beyond educational instution, like to travel abroad to Spanish speaking countries in future",Yes,reading,3,Face-to-face,More efficient,4,face,1,Yes
+159,JJ,18-25,f,1,Yes,20+ miles away,Yes,10-15 hours,"good knowledge to take beyond educational instution, like to travel abroad to Spanish speaking countries in future",Yes,writing,4,Face-to-face,More efficient,4,hybrid,1,Yes
+159,JJ,18-25,f,1,Yes,20+ miles away,Yes,10-15 hours,"good knowledge to take beyond educational instution, like to travel abroad to Spanish speaking countries in future",Yes,listening,4,Face-to-face,More efficient,4,,,Yes
+160,JR,18-25,f,2,No,20+ miles away,No,,My scholarship requirement,Yes,speaking,4,Face-to-face,Similar,4,online,,N/A
+160,JR,18-25,f,2,No,20+ miles away,No,,My scholarship requirement,Yes,reading,4,Face-to-face,Similar,4,face,,N/A
+160,JR,18-25,f,2,No,20+ miles away,No,,My scholarship requirement,Yes,writing,4,Face-to-face,Similar,4,hybrid,,N/A
+160,JR,18-25,f,2,No,20+ miles away,No,,My scholarship requirement,Yes,listening,4,Face-to-face,Similar,4,,,N/A
+161,ME,18-25,f,2,No,10-15 miles away,Yes,5-10 hours,I want to be able to communicate with more people,Yes,speaking,3,Face-to-face,Similar,3,online,3,Yes
+161,ME,18-25,f,2,No,10-15 miles away,Yes,5-10 hours,I want to be able to communicate with more people,Yes,reading,4,Face-to-face,Similar,3,face,2,Yes
+161,ME,18-25,f,2,No,10-15 miles away,Yes,5-10 hours,I want to be able to communicate with more people,Yes,writing,3,Face-to-face,Similar,3,hybrid,2,Yes
+161,ME,18-25,f,2,No,10-15 miles away,Yes,5-10 hours,I want to be able to communicate with more people,Yes,listening,4,Face-to-face,Similar,3,,,Yes
+162,MV,18-25,f,3,No,20+ miles away,No,,I wanted to minor in spanish,Yes,speaking,4,Online,Niether,3,online,5,Yes
+162,MV,18-25,f,3,No,20+ miles away,No,,I wanted to minor in spanish,Yes,reading,3,Online,Niether,3,face,5,Yes
+162,MV,18-25,f,3,No,20+ miles away,No,,I wanted to minor in spanish,Yes,writing,3,Online,Niether,3,hybrid,5,Yes
+162,MV,18-25,f,3,No,20+ miles away,No,,I wanted to minor in spanish,Yes,listening,3,Online,Niether,3,,,Yes
+163,JC,18-25,f,2,No,16-20 miles away,Yes,15-20 hours,Spanish would help me since I travel to Mexico often. My partner is also Spanish so it would be great to be able to talk to his family.,Yes,speaking,3,Face-to-face,Niether,2,online,2,N/A
+163,JC,18-25,f,2,No,16-20 miles away,Yes,15-20 hours,Spanish would help me since I travel to Mexico often. My partner is also Spanish so it would be great to be able to talk to his family.,Yes,reading,3,Face-to-face,Niether,2,face,1,N/A
+163,JC,18-25,f,2,No,16-20 miles away,Yes,15-20 hours,Spanish would help me since I travel to Mexico often. My partner is also Spanish so it would be great to be able to talk to his family.,Yes,writing,3,Face-to-face,Niether,2,hybrid,1,N/A
+163,JC,18-25,f,2,No,16-20 miles away,Yes,15-20 hours,Spanish would help me since I travel to Mexico often. My partner is also Spanish so it would be great to be able to talk to his family.,Yes,listening,4,Face-to-face,Niether,2,,,N/A
+164,KS,18-25,f,2,No,20+ miles away,Yes,0-5 hours,I have to take a language for my honors college requirement,Yes,speaking,3,Face-to-face,Niether,2,online,2,Yes
+164,KS,18-25,f,2,No,20+ miles away,Yes,0-5 hours,I have to take a language for my honors college requirement,Yes,reading,4,Face-to-face,Niether,2,face,4,Yes
+164,KS,18-25,f,2,No,20+ miles away,Yes,0-5 hours,I have to take a language for my honors college requirement,Yes,writing,4,Face-to-face,Niether,2,hybrid,3,Yes
+164,KS,18-25,f,2,No,20+ miles away,Yes,0-5 hours,I have to take a language for my honors college requirement,Yes,listening,2,Face-to-face,Niether,2,,,Yes
+165,CN,18-25,f,1,No,10-15 miles away,Yes,5-10 hours,I wanted to push myself to learn spanish.,No,speaking,4,Face-to-face,Niether,4,online,2,Yes
+165,CN,18-25,f,1,No,10-15 miles away,Yes,5-10 hours,I wanted to push myself to learn spanish.,No,reading,4,Face-to-face,Niether,4,face,4,Yes
+165,CN,18-25,f,1,No,10-15 miles away,Yes,5-10 hours,I wanted to push myself to learn spanish.,No,writing,4,Face-to-face,Niether,4,hybrid,3,Yes
+165,CN,18-25,f,1,No,10-15 miles away,Yes,5-10 hours,I wanted to push myself to learn spanish.,No,listening,4,Face-to-face,Niether,4,,,Yes
+166,KB,18-25,o,4,No,20+ miles away,Yes,10-15 hours,"I had trouble registering for classes and needed to meet the minimum required credits, but being I am half hispanic and have the ability to learn and speak Spanish, I saw this as an opportunity to learn more and get closer to that goal",Yes,speaking,3,Face-to-face,Similar,3,online,4,N/A
+166,KB,18-25,o,4,No,20+ miles away,Yes,10-15 hours,"I had trouble registering for classes and needed to meet the minimum required credits, but being I am half hispanic and have the ability to learn and speak Spanish, I saw this as an opportunity to learn more and get closer to that goal",Yes,reading,3,Face-to-face,Similar,3,face,2,N/A
+166,KB,18-25,o,4,No,20+ miles away,Yes,10-15 hours,"I had trouble registering for classes and needed to meet the minimum required credits, but being I am half hispanic and have the ability to learn and speak Spanish, I saw this as an opportunity to learn more and get closer to that goal",Yes,writing,4,Face-to-face,Similar,3,hybrid,2,N/A
+166,KB,18-25,o,4,No,20+ miles away,Yes,10-15 hours,"I had trouble registering for classes and needed to meet the minimum required credits, but being I am half hispanic and have the ability to learn and speak Spanish, I saw this as an opportunity to learn more and get closer to that goal",Yes,listening,5,Face-to-face,Similar,3,,,N/A
+167,SM,18-25,o,4,No,10-15 miles away,No,,I felt that it would be useful in my professional career and would open more doors for me,Yes,speaking,3,Face-to-face,More efficient,3,online,2,Yes
+167,SM,18-25,o,4,No,10-15 miles away,No,,I felt that it would be useful in my professional career and would open more doors for me,Yes,reading,4,Face-to-face,More efficient,3,face,4,Yes
+167,SM,18-25,o,4,No,10-15 miles away,No,,I felt that it would be useful in my professional career and would open more doors for me,Yes,writing,4,Face-to-face,More efficient,3,hybrid,3,Yes
+167,SM,18-25,o,4,No,10-15 miles away,No,,I felt that it would be useful in my professional career and would open more doors for me,Yes,listening,3,Face-to-face,More efficient,3,,,Yes
+168,BY,18-25,h,4,,,,,,,speaking,,,,,online,,
+168,BY,18-25,h,4,,,,,,,reading,,,,,face,,
+168,BY,18-25,h,4,,,,,,,writing,,,,,hybrid,,
+168,BY,18-25,h,4,,,,,,,listening,,,,,,,
+169,SC,18-25,o,1,No,20+ miles away,No,,"What motivated me to sign up for a language course this semester is the requirement for SAS if I were to be completely honest. In general, I chose Spanish because there are a lot of Spanish speakers, and with going into the health field, it would be good for me if I were able to speak, or at least understand when I am communicating with my patients. ",Yes,speaking,5,Face-to-face,Niether,3,online,4,Yes
+169,SC,18-25,o,1,No,20+ miles away,No,,"What motivated me to sign up for a language course this semester is the requirement for SAS if I were to be completely honest. In general, I chose Spanish because there are a lot of Spanish speakers, and with going into the health field, it would be good for me if I were able to speak, or at least understand when I am communicating with my patients. ",Yes,reading,4,Face-to-face,Niether,3,face,3,Yes
+169,SC,18-25,o,1,No,20+ miles away,No,,"What motivated me to sign up for a language course this semester is the requirement for SAS if I were to be completely honest. In general, I chose Spanish because there are a lot of Spanish speakers, and with going into the health field, it would be good for me if I were able to speak, or at least understand when I am communicating with my patients. ",Yes,writing,4,Face-to-face,Niether,3,hybrid,2,Yes
+169,SC,18-25,o,1,No,20+ miles away,No,,"What motivated me to sign up for a language course this semester is the requirement for SAS if I were to be completely honest. In general, I chose Spanish because there are a lot of Spanish speakers, and with going into the health field, it would be good for me if I were able to speak, or at least understand when I am communicating with my patients. ",Yes,listening,2,Face-to-face,Niether,3,,,Yes
+170,PV,18-25,f,3,No,1-5 miles away,Yes,5-10 hours,Honor College,No,speaking,2,Face-to-face,Niether,1,online,5,Yes
+170,PV,18-25,f,3,No,1-5 miles away,Yes,5-10 hours,Honor College,No,reading,4,Face-to-face,Niether,1,face,1,Yes
+170,PV,18-25,f,3,No,1-5 miles away,Yes,5-10 hours,Honor College,No,writing,5,Face-to-face,Niether,1,hybrid,3,Yes
+170,PV,18-25,f,3,No,1-5 miles away,Yes,5-10 hours,Honor College,No,listening,2,Face-to-face,Niether,1,,,Yes
+171,AH,25-35,o,2,No,10-15 miles away,Yes,20 + hours,Due to my latin background I chose to finally learn the language.,Yes,speaking,3,Face-to-face,Similar,4,online,2,Yes
+171,AH,25-35,o,2,No,10-15 miles away,Yes,20 + hours,Due to my latin background I chose to finally learn the language.,Yes,reading,3,Face-to-face,Similar,4,face,2,Yes
+171,AH,25-35,o,2,No,10-15 miles away,Yes,20 + hours,Due to my latin background I chose to finally learn the language.,Yes,writing,4,Face-to-face,Similar,4,hybrid,2,Yes
+171,AH,25-35,o,2,No,10-15 miles away,Yes,20 + hours,Due to my latin background I chose to finally learn the language.,Yes,listening,3,Face-to-face,Similar,4,,,Yes
+172,AT,18-25,o,2,No,20+ miles away,No,,"Initially I signed up to take a language course to fulfill my language requirement for my major, however as time went on I am glad I continued to take a language course because my proficiency has significantly improved. What motivates me to learn an additional language is the opportunities it provides such as learning about different cultures, interacting with others and to overall hear different worldviews. ",Yes,speaking,4,Online,Niether,3,online,3,N/A
+172,AT,18-25,o,2,No,20+ miles away,No,,"Initially I signed up to take a language course to fulfill my language requirement for my major, however as time went on I am glad I continued to take a language course because my proficiency has significantly improved. What motivates me to learn an additional language is the opportunities it provides such as learning about different cultures, interacting with others and to overall hear different worldviews. ",Yes,reading,4,Online,Niether,3,face,5,N/A
+172,AT,18-25,o,2,No,20+ miles away,No,,"Initially I signed up to take a language course to fulfill my language requirement for my major, however as time went on I am glad I continued to take a language course because my proficiency has significantly improved. What motivates me to learn an additional language is the opportunities it provides such as learning about different cultures, interacting with others and to overall hear different worldviews. ",Yes,writing,4,Online,Niether,3,hybrid,3,N/A
+172,AT,18-25,o,2,No,20+ miles away,No,,"Initially I signed up to take a language course to fulfill my language requirement for my major, however as time went on I am glad I continued to take a language course because my proficiency has significantly improved. What motivates me to learn an additional language is the opportunities it provides such as learning about different cultures, interacting with others and to overall hear different worldviews. ",Yes,listening,4,Online,Niether,3,,,N/A
+173,WS,18-25,o,4,Yes,16-20 miles away,No,,To satisfy SAS core,Yes,speaking,3,Face-to-face,More efficient,3,online,3,No
+173,WS,18-25,o,4,Yes,16-20 miles away,No,,To satisfy SAS core,Yes,reading,4,Face-to-face,More efficient,3,face,4,No
+173,WS,18-25,o,4,Yes,16-20 miles away,No,,To satisfy SAS core,Yes,writing,5,Face-to-face,More efficient,3,hybrid,3,No
+173,WS,18-25,o,4,Yes,16-20 miles away,No,,To satisfy SAS core,Yes,listening,4,Face-to-face,More efficient,3,,,No
+174,SP,18-25,f,1,Yes,20+ miles away,No,,I wanted to keep with a language and to also learn more and speak more Spanish since that is part of my heritage. I also studied it since 8th grade all the way through my high school career,Yes,speaking,3,Face-to-face,Similar,3,online,3,Yes
+174,SP,18-25,f,1,Yes,20+ miles away,No,,I wanted to keep with a language and to also learn more and speak more Spanish since that is part of my heritage. I also studied it since 8th grade all the way through my high school career,Yes,reading,4,Face-to-face,Similar,3,face,2,Yes
+174,SP,18-25,f,1,Yes,20+ miles away,No,,I wanted to keep with a language and to also learn more and speak more Spanish since that is part of my heritage. I also studied it since 8th grade all the way through my high school career,Yes,writing,2,Face-to-face,Similar,3,hybrid,3,Yes
+174,SP,18-25,f,1,Yes,20+ miles away,No,,I wanted to keep with a language and to also learn more and speak more Spanish since that is part of my heritage. I also studied it since 8th grade all the way through my high school career,Yes,listening,4,Face-to-face,Similar,3,,,Yes
+175,AD,18-25,o,1,No,1-5 miles away,No,,I have studied spanish for my entire education and I wanted to continue that until I can confidently speak spanish. ,Yes,speaking,4,Face-to-face,Niether,2,online,2,Yes
+175,AD,18-25,o,1,No,1-5 miles away,No,,I have studied spanish for my entire education and I wanted to continue that until I can confidently speak spanish. ,Yes,reading,5,Face-to-face,Niether,2,face,5,Yes
+175,AD,18-25,o,1,No,1-5 miles away,No,,I have studied spanish for my entire education and I wanted to continue that until I can confidently speak spanish. ,Yes,writing,3,Face-to-face,Niether,2,hybrid,3,Yes
+175,AD,18-25,o,1,No,1-5 miles away,No,,I have studied spanish for my entire education and I wanted to continue that until I can confidently speak spanish. ,Yes,listening,2,Face-to-face,Niether,2,,,Yes
+176,MH,18-25,o,3,No,10-15 miles away,Yes,15-20 hours,It was an honors program requirement ,Yes,speaking,5,Face-to-face,Similar,4,online,1,Yes
+176,MH,18-25,o,3,No,10-15 miles away,Yes,15-20 hours,It was an honors program requirement ,Yes,reading,5,Face-to-face,Similar,4,face,3,Yes
+176,MH,18-25,o,3,No,10-15 miles away,Yes,15-20 hours,It was an honors program requirement ,Yes,writing,5,Face-to-face,Similar,4,hybrid,3,Yes
+176,MH,18-25,o,3,No,10-15 miles away,Yes,15-20 hours,It was an honors program requirement ,Yes,listening,5,Face-to-face,Similar,4,,,Yes
+177,ML,18-25,o,2,No,5-10 miles away,No,,"In the healthcare field , spanish is important. ",Yes,speaking,3,Online,Similar,4,online,2,No
+177,ML,18-25,o,2,No,5-10 miles away,No,,"In the healthcare field , spanish is important. ",Yes,reading,4,Online,Similar,4,face,5,No
+177,ML,18-25,o,2,No,5-10 miles away,No,,"In the healthcare field , spanish is important. ",Yes,writing,5,Online,Similar,4,hybrid,4,No
+177,ML,18-25,o,2,No,5-10 miles away,No,,"In the healthcare field , spanish is important. ",Yes,listening,5,Online,Similar,4,,,No
+178,AG,18-25,o,1,No,20+ miles away,No,,I was interested in improving by Spanish skills as I enjoyed learning about Spanish and its culture/traditions in high school. Learning an additional language is a cool way to learn about other cultures and their way of living.,Yes,speaking,5,Face-to-face,More efficient,4,online,2,Yes
+178,AG,18-25,o,1,No,20+ miles away,No,,I was interested in improving by Spanish skills as I enjoyed learning about Spanish and its culture/traditions in high school. Learning an additional language is a cool way to learn about other cultures and their way of living.,Yes,reading,5,Face-to-face,More efficient,4,face,,Yes
+178,AG,18-25,o,1,No,20+ miles away,No,,I was interested in improving by Spanish skills as I enjoyed learning about Spanish and its culture/traditions in high school. Learning an additional language is a cool way to learn about other cultures and their way of living.,Yes,writing,5,Face-to-face,More efficient,4,hybrid,,Yes
+178,AG,18-25,o,1,No,20+ miles away,No,,I was interested in improving by Spanish skills as I enjoyed learning about Spanish and its culture/traditions in high school. Learning an additional language is a cool way to learn about other cultures and their way of living.,Yes,listening,5,Face-to-face,More efficient,4,,,Yes
+179,IH,18-25,f,2,No,1-5 miles away,No,,I was motivated because I want to study abroad in Spain and speak the language. ,Yes,speaking,4,Face-to-face,Niether,3,online,4,Yes
+179,IH,18-25,f,2,No,1-5 miles away,No,,I was motivated because I want to study abroad in Spain and speak the language. ,Yes,reading,4,Face-to-face,Niether,3,face,3,Yes
+179,IH,18-25,f,2,No,1-5 miles away,No,,I was motivated because I want to study abroad in Spain and speak the language. ,Yes,writing,3,Face-to-face,Niether,3,hybrid,2,Yes
+179,IH,18-25,f,2,No,1-5 miles away,No,,I was motivated because I want to study abroad in Spain and speak the language. ,Yes,listening,3,Face-to-face,Niether,3,,,Yes
+180,IS,18-25,h,3,No,1-5 miles away,No,,"I am minoring in Spanish, which is why I'm taking my third Rutgers Spanish class this semester. There were many reasons I wanted to learn Spanish, but the mainly because it's extremely useful a long with I have fun learning and practicing with friends. ",Yes,speaking,4,Face-to-face,Niether,3,online,2,N/A
+180,IS,18-25,h,3,No,1-5 miles away,No,,"I am minoring in Spanish, which is why I'm taking my third Rutgers Spanish class this semester. There were many reasons I wanted to learn Spanish, but the mainly because it's extremely useful a long with I have fun learning and practicing with friends. ",Yes,reading,4,Face-to-face,Niether,3,face,1,N/A
+180,IS,18-25,h,3,No,1-5 miles away,No,,"I am minoring in Spanish, which is why I'm taking my third Rutgers Spanish class this semester. There were many reasons I wanted to learn Spanish, but the mainly because it's extremely useful a long with I have fun learning and practicing with friends. ",Yes,writing,4,Face-to-face,Niether,3,hybrid,2,N/A
+180,IS,18-25,h,3,No,1-5 miles away,No,,"I am minoring in Spanish, which is why I'm taking my third Rutgers Spanish class this semester. There were many reasons I wanted to learn Spanish, but the mainly because it's extremely useful a long with I have fun learning and practicing with friends. ",Yes,listening,5,Face-to-face,Niether,3,,,N/A
+181,YX,18-25,o,4,No,1-5 miles away,No,,I wanted to learn Spanish because it will help me in my future career and I will be able make deeper connections with people who speaks Spanish.,Yes,speaking,3,Face-to-face,Niether,3,online,1,N/A
+181,YX,18-25,o,4,No,1-5 miles away,No,,I wanted to learn Spanish because it will help me in my future career and I will be able make deeper connections with people who speaks Spanish.,Yes,reading,5,Face-to-face,Niether,3,face,4,N/A
+181,YX,18-25,o,4,No,1-5 miles away,No,,I wanted to learn Spanish because it will help me in my future career and I will be able make deeper connections with people who speaks Spanish.,Yes,writing,5,Face-to-face,Niether,3,hybrid,5,N/A
+181,YX,18-25,o,4,No,1-5 miles away,No,,I wanted to learn Spanish because it will help me in my future career and I will be able make deeper connections with people who speaks Spanish.,Yes,listening,5,Face-to-face,Niether,3,,,N/A
+182,TB,18-25,o,2,No,5-10 miles away,Yes,10-15 hours,SAS and HC requirements ,Yes,speaking,3,Face-to-face,Niether,4,online,3,Yes
+182,TB,18-25,o,2,No,5-10 miles away,Yes,10-15 hours,SAS and HC requirements ,Yes,reading,3,Face-to-face,Niether,4,face,3,Yes
+182,TB,18-25,o,2,No,5-10 miles away,Yes,10-15 hours,SAS and HC requirements ,Yes,writing,3,Face-to-face,Niether,4,hybrid,3,Yes
+182,TB,18-25,o,2,No,5-10 miles away,Yes,10-15 hours,SAS and HC requirements ,Yes,listening,3,Face-to-face,Niether,4,,,Yes
+183,VS,18-25,o,3,No,1-5 miles away,No,,My boyfriend's family,Yes,speaking,3,Face-to-face,Niether,3,online,2,Yes
+183,VS,18-25,o,3,No,1-5 miles away,No,,My boyfriend's family,Yes,reading,3,Face-to-face,Niether,3,face,4,Yes
+183,VS,18-25,o,3,No,1-5 miles away,No,,My boyfriend's family,Yes,writing,4,Face-to-face,Niether,3,hybrid,3,Yes
+183,VS,18-25,o,3,No,1-5 miles away,No,,My boyfriend's family,Yes,listening,2,Face-to-face,Niether,3,,,Yes
+184,VU,18-25,o,1,No,20+ miles away,No,,I wanted to be fluent in Spanish. ,Yes,speaking,4,Face-to-face,Niether,3,online,2,Yes
+184,VU,18-25,o,1,No,20+ miles away,No,,I wanted to be fluent in Spanish. ,Yes,reading,4,Face-to-face,Niether,3,face,1,Yes
+184,VU,18-25,o,1,No,20+ miles away,No,,I wanted to be fluent in Spanish. ,Yes,writing,5,Face-to-face,Niether,3,hybrid,1,Yes
+184,VU,18-25,o,1,No,20+ miles away,No,,I wanted to be fluent in Spanish. ,Yes,listening,5,Face-to-face,Niether,3,,,Yes
+185,PV,18-25,o,4,No,5-10 miles away,Yes,5-10 hours,"I love being able to speak multiple languages, so I decided to take Spanish. I had already taken Mandarin in Middle and High School.",Yes,speaking,4,Online,Similar,4,online,1,Yes
+185,PV,18-25,o,4,No,5-10 miles away,Yes,5-10 hours,"I love being able to speak multiple languages, so I decided to take Spanish. I had already taken Mandarin in Middle and High School.",Yes,reading,4,Online,Similar,4,face,2,Yes
+185,PV,18-25,o,4,No,5-10 miles away,Yes,5-10 hours,"I love being able to speak multiple languages, so I decided to take Spanish. I had already taken Mandarin in Middle and High School.",Yes,writing,4,Online,Similar,4,hybrid,2,Yes
+185,PV,18-25,o,4,No,5-10 miles away,Yes,5-10 hours,"I love being able to speak multiple languages, so I decided to take Spanish. I had already taken Mandarin in Middle and High School.",Yes,listening,5,Online,Similar,4,,,Yes
+186,SA,18-25,f,2,No,16-20 miles away,Yes,10-15 hours,,Yes,speaking,,,,,online,,
+186,SA,18-25,f,2,No,16-20 miles away,Yes,10-15 hours,,Yes,reading,,,,,face,,
+186,SA,18-25,f,2,No,16-20 miles away,Yes,10-15 hours,,Yes,writing,,,,,hybrid,,
+186,SA,18-25,f,2,No,16-20 miles away,Yes,10-15 hours,,Yes,listening,,,,,,,
+187,SP,18-25,f,1,No,20+ miles away,No,,,,speaking,,,,,online,,
+187,SP,18-25,f,1,No,20+ miles away,No,,,,reading,,,,,face,,
+187,SP,18-25,f,1,No,20+ miles away,No,,,,writing,,,,,hybrid,,
+187,SP,18-25,f,1,No,20+ miles away,No,,,,listening,,,,,,,
+188,OM,18-25,o,3,No,1-5 miles away,No,,My father speaks Spanish fluently,Yes,speaking,4,Face-to-face,Niether,4,online,1,
+188,OM,18-25,o,3,No,1-5 miles away,No,,My father speaks Spanish fluently,Yes,reading,5,Face-to-face,Niether,4,face,1,
+188,OM,18-25,o,3,No,1-5 miles away,No,,My father speaks Spanish fluently,Yes,writing,4,Face-to-face,Niether,4,hybrid,1,
+188,OM,18-25,o,3,No,1-5 miles away,No,,My father speaks Spanish fluently,Yes,listening,4,Face-to-face,Niether,4,,,
+189,VU,18-25,o,1,No,20+ miles away,No,,,,speaking,,,,,online,,
+189,VU,18-25,o,1,No,20+ miles away,No,,,,reading,,,,,face,,
+189,VU,18-25,o,1,No,20+ miles away,No,,,,writing,,,,,hybrid,,
+189,VU,18-25,o,1,No,20+ miles away,No,,,,listening,,,,,,,
+190,AR,18-25,o,4,No,1-5 miles away,Yes,10-15 hours,I wanted to finish the intermediate language track as part of my graduation requirements.,Yes,speaking,4,Face-to-face,Niether,3,online,3,Yes
+190,AR,18-25,o,4,No,1-5 miles away,Yes,10-15 hours,I wanted to finish the intermediate language track as part of my graduation requirements.,Yes,reading,4,Face-to-face,Niether,3,face,4,Yes
+190,AR,18-25,o,4,No,1-5 miles away,Yes,10-15 hours,I wanted to finish the intermediate language track as part of my graduation requirements.,Yes,writing,4,Face-to-face,Niether,3,hybrid,3,Yes
+190,AR,18-25,o,4,No,1-5 miles away,Yes,10-15 hours,I wanted to finish the intermediate language track as part of my graduation requirements.,Yes,listening,4,Face-to-face,Niether,3,,,Yes
+191,SGS,18-25,h,1,No,1-5 miles away,No,,,,speaking,,,,,online,,
+191,SGS,18-25,h,1,No,1-5 miles away,No,,,,reading,,,,,face,,
+191,SGS,18-25,h,1,No,1-5 miles away,No,,,,writing,,,,,hybrid,,
+191,SGS,18-25,h,1,No,1-5 miles away,No,,,,listening,,,,,,,

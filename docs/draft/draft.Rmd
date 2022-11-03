@@ -1,0 +1,172 @@
+---
+title             : "The title"
+shorttitle        : "Title"
+
+author: 
+  - name          : "First Author"
+    affiliation   : "1"
+    corresponding : yes    # Define only one corresponding author
+    address       : "Postal address"
+    email         : "my@email.com"
+    role:         # Contributorship roles (e.g., CRediT, https://casrai.org/credit/)
+      - Conceptualization
+      - Writing - Original Draft Preparation
+      - Writing - Review & Editing
+  - name          : "Ernst-August Doelle"
+    affiliation   : "1,2"
+    role:
+      - Writing - Review & Editing
+
+affiliation:
+  - id            : "1"
+    institution   : "Wilhelm-Wundt-University"
+  - id            : "2"
+    institution   : "Konstanz Business School"
+
+authornote: |
+  Add complete departmental affiliations for each author here. Each new line herein must be indented, like this line.
+
+  Enter author note here.
+
+abstract: |
+  One or two sentences providing a **basic introduction** to the field,  comprehensible to a scientist in any discipline.
+  
+  Two to three sentences of **more detailed background**, comprehensible  to scientists in related disciplines.
+  
+  One sentence clearly stating the **general problem** being addressed by  this particular study.
+  
+  One sentence summarizing the main result (with the words "**here we show**" or their equivalent).
+  
+  Two or three sentences explaining what the **main result** reveals in direct comparison to what was thought to be the case previously, or how the  main result adds to previous knowledge.
+  
+  One or two sentences to put the results into a more **general context**.
+  
+  Two or three sentences to provide a **broader perspective**, readily comprehensible to a scientist in any discipline.
+  
+  <!-- https://tinyurl.com/ybremelq -->
+  
+keywords          : "keywords"
+wordcount         : "X"
+
+bibliography      : ["r-references.bib"]
+
+floatsintext      : no
+figurelist        : no
+tablelist         : no
+footnotelist      : no
+linenumbers       : yes
+mask              : no
+draft             : no
+
+documentclass     : "apa6"
+classoption       : "man"
+output            : papaja::apa6_pdf
+---
+
+```{r setup, include = FALSE}
+library("papaja")
+r_refs("r-references.bib")
+```
+
+
+# Introduction
+
+** big picture = social implications of online teaching and how that has changed in a post-pandemic world
+** small picture = what we are doing in this language program and how can we improve to meet the needs and wants of the students in their new reality
+
+- Address the general idea
+
+- Explain the study
+
+- Address our contribution
+
+# Literature Review
+
+- Look at format of the other papers that we have saved in this repo
+
+# Current Study
+
+Our premise in this research study is to gather information from our current students who are in an educational environment that has been in continuous change for the past few years. 
+The effects of this ever-changing learning environment have affected students and continue to affect modulating the way they interact with and view their education. Post-pandemic effects, along with world socio-economic changes, have brought a new educational reality that affects tendencies toward enrollment. 
+Having a better understanding of the constant change of tendencies that affect our students can help us not only in providing them with adequate tools to succeed but also help us in providing courses that match their needs and expectations.
+
+# Methods
+
+## RQs
+
+The current study aims to answer the following research questions: 
+
+- How effective are online classes according to self-reported measures of language abilities?
+
+- How does our new post-pandemic reality modulate tendencies in language enrollment (in person vs online)?
+
+We predict X based on Y. 
+
+In order to answer the research questions, a total of X students completed an anonymous survey. The following is a description of the participants that took part in the study and the task that they completed. 
+
+## Participants
+
+Students who were taking in person and online Spanish language classes at a Big 10 northeastern university were asked to complete the survey. 
+A total number of 87 people responded (update this with final count from Qualtrics). 
+The data from 6 surveys were removed due to incomplete responses. 
+The participants were compensated with extra credit towards their homework grades in their Spanish courses for completing the survey. 
+They were all typical university aged students (ages from 18-25) except one student, who belongs to the 25-35 age range. 
+[I don't know if this will be relevant, probably not, but we could include: 35 of the students were first years, 27 were second years, 11 were third years, and 9 were fourth years.] 
+Of the # participants who completed the survey, 23 were taking a fully asynchronous online Spanish class, 51 were taking an in person class, and 7 were taking a hybrid course.
+
+We also collected information about their linguistic backgrounds. 
+Of the # of participants, 37 of the students speak another language besides English and Spanish. 
+The participants reported learning Spanish between the ages of X and X. 
+They had reported learning Spanish in X setting. 
+X number of participants had taken X number of years of Spanish in a high school setting. 
+X students have never taken Spanish courses prior to this course. (look up this information in the survey)
+
+Additionally, we collected information about their work and commuting lives of these participants to be able to make judgements about how these factors impact learning attitudes. 
+The students ranged from living on campus (32 students) to living relatively close to campus 5-15 miles away (17 students), to living 15+ miles away from campus and having a long commute (33 students). 
+As for their working schedules, 51 students reported to not be currently working while attending university while 31 students are currently studying and working at the same time. 
+Of those 31 students who are working, five work between zero and five hours a week, ten work between five to ten hours a week, ten work between ten to fifteen hours and week and six work more than fifteen hours a week.
+
+## Material and Procedure
+
+The survey was created on Qualtrics. 
+It was distributed via an online anonymous link to undergraduate students taking Spanish courses in a large university located in the northeast United States and it took an average of # minutes to complete (find this info on qualtrics). 
+In total, the participants answered 46 questions. 
+The questions were divided into 4 sections (background information, online learning tools/accessibility, attitudes, and enrollment) that each aimed to gather information about different factors that might impact the responses. 
+The background information section asked questions about their age, how long they have studied Spanish, how far they live away from campus, and if they are working. 
+The online learning tools/accessibility questions asked how comfortable they felt using the learning management systems that their courses are using and how readily accessible stable Wifi, a computer or tablet, and the software and other technologies are that are required for the courses that they are taking. 
+The attitudes section aimed to gather the participants' thoughts about learning languages in person and in online settings, their motivations for taking a language course, and how they feel their language abilities have progressed. 
+The last section, enrollment, asked questions about school-work balance and the reasons why they enroll in online courses.
+
+The aforementioned sections of the survey followed a mixed-methods design to examine students’ perspectives through an interaction of quantitative and qualitative questions.
+By using open-ended and close-ended questionnaires we were able to collect, contrast and students’ testimonies. 
+The mixed-methods design of this study allowed us to compare open-ended questions, with close-ended questions obtaining tendencies, preferences, as well as attitudes toward enrollment. 
+Close-ended quantitative questions were presented in a scale from 5 to 1 in the questionnaire, with a 5 being valued as “very useful” and a 1 as “not very useful”.
+
+## Data analysis
+We used `r cite_r("r-references.bib")` for all our analyses.
+
+
+# Results
+
+# Discussion
+
+- Tie to RQs and big picture
+
+
+# Conclusion
+
+- Big Picture
+
+- Limitations
+
+- Future directions
+
+The results of this research study can help inform the decisions that administrations at similar universities make about the courses that they offer in the future. 
+
+
+\newpage
+
+# References
+
+::: {#refs custom-style="Bibliography"}
+:::
