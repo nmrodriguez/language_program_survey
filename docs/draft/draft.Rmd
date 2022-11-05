@@ -89,7 +89,8 @@ Big picture:
 -	During pandemic 
  “ In fall 2020, some 75 percent (11.8 million) of all undergraduate students were enrolled in at least one distance education course, and 44 percent (7.0 million) of all undergraduate students exclusively took distance education courses. 
 The number of undergraduate students enrolled in at least one distance education course was 97 percent higher in 2020 than prior to the pandemic in fall 2019 (11.8 million vs. 6.0 million). 
-The number of undergraduate students exclusively enrolled in distance education courses was 186 percent higher in 2020 than in 2019 (7.0 million vs. 2.4 million).”. US department of education (2022) – es un copy paste-  hay que ver que nos interesa. 
+The number of undergraduate students exclusively enrolled in distance education courses was 186 percent higher in 2020 than in 2019 (7.0 million vs. 2.4 million).”.
+US department of education (2022) – es un copy paste-  hay que ver que nos interesa. 
 https://nces.ed.gov/fastfacts/display.asp?id=80 
 https://nces.ed.gov/programs/coe/indicator/cha/undergrad-enrollment
 
