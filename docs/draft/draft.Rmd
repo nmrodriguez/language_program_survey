@@ -82,6 +82,30 @@ r_refs("r-references.bib")
 
 # Literature Review
 
+Big picture: 
+-	Pre pandemic  
+ In 2018, the percentage surpassed 35% according to the US Department of Education (2019). – no more than 2/3 lines. 
+
+-	During pandemic 
+ “ In fall 2020, some 75 percent (11.8 million) of all undergraduate students were enrolled in at least one distance education course, and 44 percent (7.0 million) of all undergraduate students exclusively took distance education courses. The number of undergraduate students enrolled in at least one distance education course was 97 percent higher in 2020 than prior to the pandemic in fall 2019 (11.8 million vs. 6.0 million). The number of undergraduate students exclusively enrolled in distance education courses was 186 percent higher in 2020 than in 2019 (7.0 million vs. 2.4 million).”. US department of education (2022) – es un copy paste-  hay que ver que nos interesa. 
+https://nces.ed.gov/fastfacts/display.asp?id=80 
+https://nces.ed.gov/programs/coe/indicator/cha/undergrad-enrollment
+
+Several studies have analyzed online vs f2f.  general tendency says XX
+Sangmin-Michelle (2020) students perceive online education as less effective
+Ruiz-Aloson-Bartol et all (2022) Students had the belief that learnt less that what they could have learnt in a traditional face to face class. Este paper cita bastantes estudios viejos donde encuentran que la educación online tiene ventajas. Son todo papers pre-pandemic. 
+
+Interesante 
+“7 out of 10 feel the online instruction they received this Winter is worse than in-person instruction
+https://tophat.com/press-releases/adrift-in-a-pandemic-survey/
+
+-	Post pandemic 
+
+ autonomy, effectiveness of instruction, engagement, interactivity, and openmindedness statistically significant effects were observedPusey and Alexander (2022)- online and effectiveness of instruction 
+
+- see a way to link with our study. Which paper is the most similar to ours? 
+
+
 - Look at format of the other papers that we have saved in this repo
 
 # Current Study
