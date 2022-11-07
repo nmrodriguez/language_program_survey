@@ -20,5 +20,9 @@ library("flextable")
 library("knitr")
 library("wordcloud")
 library("RColorBrewer")
+library("foreign")
+library("MASS")
+library("Hmisc")
+library("reshape2")
 
 # -----------------------------------------------------------------------------

@@ -1,4 +1,4 @@
-responseid,id,age,class_format,year,online_pre,commute,work,work_hours,motivation,progress,practicerate,practicerate,motivation,efficient,effective,format_anxiety,anxiety,help_job
+responseid,id,age,class_format,year,online_pre,commute,work,work_hours,motivation,progress,practice,practicerate,motivation,efficient,effective,format_anxiety,anxiety,help_job
 101,BH,18-25,h,1,No,1-5 miles away,Yes,0-5 hours,I signed up for Spanish in part to fulfill the core curriculum and in part because I am considering a major/minor in Spanish.,Yes,speaking,4,Face-to-face,Niether,4,online,4,No
 101,BH,18-25,h,1,No,1-5 miles away,Yes,0-5 hours,I signed up for Spanish in part to fulfill the core curriculum and in part because I am considering a major/minor in Spanish.,Yes,reading,5,Face-to-face,Niether,4,face,3,No
 101,BH,18-25,h,1,No,1-5 miles away,Yes,0-5 hours,I signed up for Spanish in part to fulfill the core curriculum and in part because I am considering a major/minor in Spanish.,Yes,writing,4,Face-to-face,Niether,4,hybrid,3,No

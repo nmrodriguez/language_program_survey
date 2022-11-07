@@ -8,7 +8,8 @@ source(here::here("scripts", "00_libraries.R"))
 # Tidy survey data ------------------------------------------------------------
 # Data from Qualtrics 10/21 ---------------------------------------------------
 
-tidy_data <- read.csv("data/tidy/tidy_survey_partial.csv")
+tidy_data <- read.csv("data/tidy/tidy_survey_partial.csv") %>%
+
 
 
 # Me messing around and trying graphs / stats stuff so don't take this seriously
@@ -42,14 +43,14 @@ tidy_data %>%
 # 4 = 10
 
 
-# okay so lets look at enrollment ~ progress
+# okay so lets look at practice_rate ~ practice type
 tidy_data %>%
-  group_by(class_format) %>%
-  summarize(progress) %>%
-  ggplot(., aes(x = class_format, y = progress)) +
-  geom_point()
+  ggplot(., aes(x = class_format, y = practicerate)) +
+  geom_boxplot(size = .75) +
+  geom_jitter(alpha = .5) +
+  facet_grid("practice")
 
-# ^ that needs to be changed but i'm too lazy to do it right now
+# ^ that needs to be made prettier
 
 # then you want to look at progress overall etc
 
@@ -62,9 +63,29 @@ tidy_data %>%
 # we can say something like the majority said that they progressed in their language skills
 # then we can go into practice amount as a function of format (actually
 # you should double check that w/ dependent and independent variables)
+# actually i think we need to do an ordinal regression
+
+
+
+practice_stats <- polr(practicerate ~ class_format, data = tidy_data)
+
+practice_stats <- lm(practicerate ~ effective, data = tidy_data)
+summary(practice_stats)
+
+practice_stats1 <- lm(practicerate ~ effective + class_format, data = tidy_data)
+summary(practice_stats1)
+
+practice_stats2 <- lm(practicerate ~ effective + class_format + practice, data = tidy_data)
+summary(practice_stats2)
 
 # then you want to look at enrollment based on anxiety, work, and commute
 # whatever code you do for above, is going to be the same thing here just with different variables
+
+enrollment_stats <- lm(practicerate ~ effective + class_format + work_hours, data = tidy_data)
+summary(enrollment_stats)
+
+enrollment_stats1 <- lm(practicerate ~ effective + class_format + work_hours + commute, data = tidy_data)
+summary(enrollment_stats1)
 
 # say something about online pre covid
 tidy_data %>%
@@ -73,6 +94,7 @@ tidy_data %>%
 
 # No 81
 # Yes 9
+
 # Before COVID, the vast majority of the people had never taken an online class, so if we look
 # at the format of their classes now (figure this out) so we can say, people who have taken
 # online classes before covid either stick to online or go back to in person
