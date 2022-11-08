@@ -8,7 +8,7 @@ source(here::here("scripts", "00_libraries.R"))
 # Tidy survey data ------------------------------------------------------------
 # Data from Qualtrics 10/21 ---------------------------------------------------
 
-tidy_data <- read.csv("data/tidy/tidy_survey_partial.csv") %>%
+tidy_data <- read.csv("data/tidy/tidy_survey_partial.csv")
 
 
 
@@ -67,25 +67,38 @@ tidy_data %>%
 
 
 
-practice_stats <- polr(practicerate ~ class_format, data = tidy_data)
-
-practice_stats <- lm(practicerate ~ effective, data = tidy_data)
+practice_stats <- polr(as.factor(class_format) ~ practicerate, data = tidy_data, Hess = TRUE, method = c("logistic"))
 summary(practice_stats)
 
-practice_stats1 <- lm(practicerate ~ effective + class_format, data = tidy_data)
+practice_stats1 <- polr(as.factor(class_format) ~ practicerate + practice, data = tidy_data, Hess = TRUE, method = c("logistic"))
 summary(practice_stats1)
 
-practice_stats2 <- lm(practicerate ~ effective + class_format + practice, data = tidy_data)
+practice_stats2 <- polr(as.factor(class_format) ~ practicerate + practice + progress, data = tidy_data, Hess = TRUE, method = c("logistic"))
 summary(practice_stats2)
+
+## It seems like nothing is interesting here, which we could make the argument that they're learning
+## just as well in both formats, so thats cool.
 
 # then you want to look at enrollment based on anxiety, work, and commute
 # whatever code you do for above, is going to be the same thing here just with different variables
 
-enrollment_stats <- lm(practicerate ~ effective + class_format + work_hours, data = tidy_data)
+enrollment_stats <- polr(as.factor(class_format) ~ work, data = tidy_data, Hess = TRUE, method = c("logistic"))
 summary(enrollment_stats)
 
-enrollment_stats1 <- lm(practicerate ~ effective + class_format + work_hours + commute, data = tidy_data)
+enrollment_stats1 <- polr(as.factor(class_format) ~ work + work_hours, data = tidy_data, Hess = TRUE, method = c("logistic"))
 summary(enrollment_stats1)
+
+enrollment_stats2 <- polr(as.factor(class_format) ~ work + work_hours + commute, data = tidy_data, Hess = TRUE, method = c("logistic"))
+summary(enrollment_stats2)
+
+# lets look at anxiety now
+
+anxiety <- polr(as.factor(format_anxiety) ~ anxiety, data = tidy_data, Hess = TRUE, method = c("logistic"))
+summary(anxiety)
+
+anxiety1 <- polr(as.factor(format_anxiety) ~ anxiety + class_format, data = tidy_data, Hess = TRUE, method = c("logistic"))
+summary(anxiety1)
+
 
 # say something about online pre covid
 tidy_data %>%
