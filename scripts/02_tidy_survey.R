@@ -60,6 +60,8 @@ tidy_data %>%
 
 # No 5
 # Yes 82
+
+
 # we can say something like the majority said that they progressed in their language skills
 # then we can go into practice amount as a function of format (actually
 # you should double check that w/ dependent and independent variables)
