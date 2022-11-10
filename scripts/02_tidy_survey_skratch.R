@@ -115,3 +115,82 @@ tidy_data %>%
 # online classes before covid either stick to online or go back to in person
 
 
+
+# I want to look at practice by skill, like average #
+# So i should filter?
+
+reading_data <- tidy_data %>%
+  filter(practice == "reading")
+
+reading_data %>%
+  summary(practicerate) %>%  View
+
+# Results:
+# Min.   :1.000
+# 1st Qu.:3.000
+# Median :4.000
+# Mean   :3.953
+# 3rd Qu.:5.000
+# Max.   :5.000
+
+
+writing_data <- tidy_data %>%
+  filter(practice == "writing")
+
+table(writing_data['practicerate'])
+
+# results
+# Min.   :1.000
+# 1st Qu.:3.000
+# Median :4.000
+# Mean   :3.872
+# 3rd Qu.:5.000
+# Max.   :5.000
+
+
+listening_data <- tidy_data %>%
+  filter(practice == "listening")
+
+table(listening_data['practicerate'])
+
+# results
+# Min.   :1.000
+# 1st Qu.:3.000
+# Median :4.000
+# Mean   :3.581
+# 3rd Qu.:4.000
+# Max.   :5.000
+
+speaking_data <- tidy_data %>%
+  filter(practice == "speaking")
+
+table(speaking_data['practicerate'])
+
+# results
+# Min.   :1.000
+# 1st Qu.:3.000
+# Median :4.000
+# Mean   :3.744
+# 3rd Qu.:4.000
+# Max.   :5.000
+
+
+# we need info on # of responses of face-to-face vs online
+# and i'm too lazy to filter and make this nice so i'm cheating lol
+table(reading_data['motivation.1'])
+
+# face-to-face: 71
+# online: 14
+# blanks: 6
+
+# going to do the same thing to cheat and look at efficiency
+table(reading_data['effective'])
+
+#  1  2  3  4  5
+#  6 16 36 24  3
+
+table(reading_data['efficient'])
+
+#    More efficient        Niether        Similar
+# 5             12             55             19
+

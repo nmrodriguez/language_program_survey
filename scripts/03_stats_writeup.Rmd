@@ -1,0 +1,129 @@
+---
+title: "Language Program Qualtrics Survey"
+output: pdf_document
+---
+
+```{r, load-libraries, echo=F}
+
+source(here::here("scripts", "00_libraries.R"))
+
+tidy_data <- read.csv("data/tidy/tidy_survey_partial.csv")
+
+```
+
+Okay so I'm going to write this as if we were going to use it in the paper. 
+Hopefully that helps us. 
+
+
+# Results
+
+## Descriptive statistics 
+
+```{r, descriptive, echo=T}
+
+# finding # of participants
+
+# find # of participants per group
+n_participant <- tidy_data$responseid %>%  unique() %>%  length() %>% View
+n_trials <- tidy_data %>% nrow()
+# total = 91 participants
+
+# find # of participants by class format
+tidy_data %>%
+  group_by(class_format) %>%
+  summarize(., totals = n_distinct(responseid)) %>%  View
+
+# f = 58
+# h = 8
+# o = 30
+
+# find out their year/promoción
+
+tidy_data %>%
+  group_by(year) %>%
+  summarize(., totals = n_distinct(responseid)) %>%  View
+
+# 1 = 40
+# 2 = 28
+# 3 = 13
+# 4 = 10
+
+```
+A total number of 102 participants completed the survey. 
+After initial data cleaning to filter through participants who did not complete the survey, 91 participants were included in the analysis. 
+Of those 91 participants, 58 were enrolled in a face-to-face Spanish language course, 8 in a hybrid format, and 30 in a fully asynchronous online course.
+To breakdown the make-up of the participant pool, 40 first-year, 28 second-year, 13 third-year, and 10 fourth-year students participated in that study. 
+
+Framing the analysis around the RQs helps so: 
+
+- RQ1: How effective are online classes according to self-reported measures of language abilities?
+
+In order to answer this question, we asked the participants to report if they feel like their language abilities have improved this semester or not. 
+
+```{r, improvement, echo=F}
+tidy_data %>%
+  group_by(progress) %>%
+  summarize(., totals = n_distinct(responseid)) %>%  View
+
+# No 5
+# Yes 82
+
+```
+
+Of the participants that were included in the analysis, 82 responded "Yes", while 5 responded "No". 
+The overwhelming majority (97.7%) reported improvements on language abilities compared to 5.7% who responded "No". 
+To further look into where these improvements were made, we can turn to the amount of practice they self-reported receiving in the four areas of language learning that are focused on in classroom: reading, writing, listening, and speaking. 
+Participants self-reported on a scale of 1-5, where 1 is no practice and 5 is a lot of practice, how much practice they perceived receiving in class in all of those areas. 
+We calculated mean scores for each area and can be seen in the following table:
+
+| **Language skill** | **Mean score** | **Mode** |
+| :----------------- | :------------- | :------- |
+| Reading            | 3.953          | 4        |
+| Writing            | 3.872          | 4        |
+| Listening          | 3.581          | 4        |
+| Speaking           | 3.744          | 4        |
+
+
+As can be seen in the above table, it appears that students perceive an average score of 3.744 to 3.953. 
+The mode rating for each of these skills is 4. 
+Looking at bit deeper at the impact of various factors on these self-reporting ratings, we conducted an Ordinal Regression (**check this**) via the polr package (**cite here**) on R (**cite here**). 
+An ordinal regression was run with class format (online, in person, or hybrid) was used as a predictor of practice rating (Likert scale rating of 1-5), type of practice (reading, writing, listening, or speaking), and progress (yes/no if they believed they have made progress as a result of this course). 
+Th
+**talk about results here w/ numbers**
+
+
+To answer the question: "How does our new post-pandemic reality modulate tendencies in language enrollment (in person vs online)?" we asked about the participants motivations for taking a language course and which class format is easiest for them to stay motivated in. 
+Looking solely at average respondents to the survey question, "Is it easier to stay motivated in an online or face-to-face class format?", the majority of responses (78%) believe it is easier to stay motivated in a face-to-face class than in an online one. 
+Table #? shows the breakdown of responses:
+
+| **Class format** | **# of response** |
+| :--------------- | :---------------- |
+| Face-to-face     | 71                |
+| Online           | 14                |
+| No response      | 6                 |
+
+To gauge their thoughts on efficiency and effectiveness of online teaching, the participants, who had spent the pandemic taking courses online, were also asked the question, "Do you think online education is similar to face-to-face, or is it more efficient?". 
+The breakdown of the responses were as follows: 
+
+| **Effectiveness** | **# of response** | **%**  |
+| :---------------- | :---------------- | :----- |
+| More efficient    | 12                | 13.12% |
+| Neither           | 55                | 60.44% |
+| Similar           | 19                | 20.88% |
+| No response       | 5                 | 5.49%  |
+
+The participants were also asked to rate on a Likert scale how effective they believed online language courses are as compared to face-to-face courses. 
+The response breakdown is as follows: 
+
+| **Effectiveness score** | **# of responses** |
+| :---------------------- | :----------------- |
+| 1                       | 6                  |
+| 2                       | 16                 |
+| 3                       | 36                 |
+| 4                       | 24                 |
+| 5                       | 3                  |
+
+The mean response is 3.024 and the mode, as shown in the above table, is 3. 
+To explore how various factors impacted these responses, **stats here lol**. 
+
+
