@@ -80,7 +80,6 @@ r_refs("r-references.bib")
 
 - Address our contribution
 
-pero claro el esta lli @lee2022factors lkasla
 
 
 # Literature Review
