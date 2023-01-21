@@ -24,5 +24,6 @@ library("foreign")
 library("MASS")
 library("Hmisc")
 library("reshape2")
+library("tinytex")
 
 # -----------------------------------------------------------------------------

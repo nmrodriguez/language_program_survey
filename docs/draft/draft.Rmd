@@ -71,21 +71,75 @@ r_refs("r-references.bib")
 
 # Introduction
 
-The development of online education has been evolving over the past few decades, offering an alternative to delivering learning in a more convenient manner to individuals who could not be physically present in the traditional educational classroom.  
+The development of online education has been evolving over the past few decades, offering an alternative to delivering learning in a more convenient manner to individuals.
 <!--- we might consider (not rn but to be discussed) deleted the "could not be physically present" part, it could open a can of worms---> 
-Of special interest is the research and development of language education across time and how online education has played a role in this development, as well as the implementation of communicative strategies within it. 
-<!--- I think the above sentence might be unnecessary bc we don't necessarily talk about communicative strategies --> 
-Research and technological advances allowed online language education to develop greatly, <!--- for example, x, y, z helps students to do a, b, and c. then start with the next sentence--->  
-However, the Covid-19 pandemic appeared to be its hardest challenge to date. <!--- in what way? are we saying covid was a challenge for online learning? this seems to go against the previous sentences saying that techology had advanced and online learning has developed-->
-According to the National Center for Education Statistics (2022), during the fall of 2020 over 75 percent of undergraduate students (11.8 million) were enrolled in at least one online course, whereas 44 percent (7.0 million) of all undergraduate students exclusively enrolled in online courses (*insert citation*). 
+Of particular interest is the research and development of online language education along with technological advances that made possible an evolution in the quality and accessibility of the materials. 
+For example, implementing online tools such as Zoom, VoiceThread, FlipGrid, etc, allowed students to hold conversations, share ideas and provide their opinions in a similar way to a traditional online setting. 
+
+According to the National Center for Education Statistics (2022), during the fall of 2020 over 75 percent of undergraduate students (11.8 million) were enrolled in at least one online course, whereas 44 percent (7.0 million) of all undergraduate students exclusively enrolled in online courses [@nationalstatistics_2022]. 
 Compared to Fall 2019, these numbers represent a 97 percent increase in undergraduates taking at least one online course (11.8 million vs. 6.0 million) and a 186 percent increase in undergraduate students enrolled exclusively in online courses (7.0 million vs. 2.4 million).
 
-Language attitudes are key in the language learning environment, as they can determine the success of a student [eg @thompson2021attitudes]. <!--- lets avoid statements that are very direct and assertive like that, something more like "they play a role in determining the success of a student ---> 
-A learner with a positive attitude toward a learning environment will more likely succeed than a learner who finds the environment difficult or disengaged (*insert citation*).
-Interestingly, the attitudes in online learning have been shown to play a key role as students are physically detached from the learning environment, and rely more on self-regulation abilities [@alqurashi2016self; @horvat2015student; @ke2013constructs; @lan2010using]. 
-Within this framework <!---i'm not sure that framework is the right word here-->, anxiety has been linked in several research studies [e.g.,@teimouri2019second] as an indicator of poor linguistic development. 
-<!--- i think this sentence should be deleted "Interestingly, anxiety and the fear of the unknown is a feeling that fluctuates with empirical contact throughout the academic appointment." --> 
-<!--- i'm going to think about how to rework these examples into a paragraph that flows a little better Furthermore, @webb2014flipping studied the attitudes of students and teachers in a flipped online classroom of Chinese. 
+<!--- I think the above sentence might be unnecessary bc we don't necessarily talk about communicative strategies --> 
+<!--- IAR Two lines convined --> 
+<!--- for example, x, y, z helps students to do a, b, and c. then start with the next sentence--->  
+However, the Covid-19 pandemic appeared to be its hardest challenge to date, as many educators where not prepare for the online transition @tomasik2021educational. <!--- in what way? are we saying covid was a challenge for online learning? this seems to go against the previous sentences saying that techology had advanced and online learning has developed-->
+
+
+The outbreak of COVID-19 has caused online teaching and learning to evolve rapidly during the past two years due to the national online swift. 
+However, with the progressive decrease in global covid cases, universities are adopting a pre-pandemic approach, making students return to the educational classroom.  
+
+<!--- This was a global phenomenon in the history of language education which had many educational consequences that students most likely will continue to experience when approaching online education. - maybe delete this ---> 
+With a global decrease in Covid-19 cases, most US universities slowly began to switch to a pre-pandemic educational setting or blend hybrid classes. <!--- idk if we can say "global decrease" maybe something like "with a push to return to pre-covid practices" ---> 
+The goal of this paper is twofold, first to identify attitudes towards online language education it in a context where online education is no longer mandatory and, second to better understand how our new post-pandemic reality modulates tendencies in university language class enrollment.
+
+\newpage
+
+
+
+# Previous literature and theoretical framework
+
+<!--- i don't know if this paragraph is necessary "Education mirrors society and its challenges, with Covid-19 as a global example of the adaptations that educators around the world had to implement in order to continue providing education to their students. 
+In this sense, education can be understood as a continuum that has endlessly developed according to the socioeconomic changes that society experiences throughout history."  -esto quizas entraria mejor como primera linea en "the current study"- --->
+
+The goal of the current paper is to gather information from our current students who are in an educational environment that has been in continuous change for the past few years. 
+The effects of this ever-changing learning environment have affected students and continue to affect the way they interact with and view their education. 
+Post-pandemic effects, along with world socio-economic changes such as inflation and the need to work, have brought a new educational reality that affects tendencies toward language enrollment. 
+
+<!-- i think this is what needs to be worked on, if you have something in the introcution that fits in any of these categories, add it below and we can work it into a few paragraph to motivate the study ---> 
+
+## Online learning
+
+In several decades of existence and development, online learning has never gained more attention than it did over the national pandemic, as 75 percent of undergraduate students were enrolled in at least one online course [@nationalstatistics_2022].
+Previous pre-pandemic research has proven that distance students can archive similar learning goals as those students that were physically present on the educational environment [eg: @mccutcheon2015systematic, @means2013effectiveness, @sun2016online].
+While online learning comes with a set of challenges that are not found in a traditional classroom, such as the ability to self-regulate, and the lack of interaction, it can improve the effectiveness and efficiency of education as it eliminates geographical barriers, improving accessibility, and the ability to learn at the student's pace [@kebritchi2017issues]. 
+
+During the pandemic, one of the most cited difficulties with the quick transition to online education was the lack of preparation and families with educational tools.
+Being forced to switch moralities had consequences, both from the teachers’ and students’ perspectives, as they were either not ready for the change or lacked many materials.
+[@mahyoob2020challenges] describes how both students and educators found technical problems concerning the use of technology, affecting the adequate distribution of teaching materials and communications among the students.
+These difficulties faded as the teaching force became more familiar with the learning tools. 
+In addition, the stress levels of undergraduates diminished from the beginning to the end of the academic term as they became more familiar with the instructional materials and therefore gained more experience with their newfound educational setting. 
+[@ruiz2022transitioning]
+Likewise, the attitudes toward the online setting evolved throughout the pandemic. Increased autonomy and self-paced learning opportunities offered by the new online format were overall the most liked attributes of the change. 
+
+
+#### Effectiveness and attitudes toward online education 
+#Intro online learning history
+
+Language attitudes are essential in the language learning environment, as they play an important role in determining the student's final success in the language course.
+Similarly, a learner with a positive attitude toward a learning environment will more likely succeed than a learner who finds the environment difficult or disengaged.[eg @thompson2021attitudes] <!--- lets avoid statements that are very direct and assertive like that, something more like "they play a role in determining the success of a student --->
+Not surprisingly, the attitudes in online learning have been shown to play a fundamental role as students are physically detached from the learning environment, and rely more on self-regulation abilities [@alqurashi2016self; @horvat2015student; @ke2013constructs; @lan2010using]. 
+Within this line of research <!---i'm not sure that framework is the right word here-->, anxiety has been linked in several research studies [e.g.,@teimouri2019second] as an indicator of poor linguistic development. 
+<!--- i think this sentence should be deleted "Interestingly, anxiety and the fear of the unknown is a feeling that fluctuates with empirical contact throughout the academic appointment." -como quieras, lo que queria era expresar la idea que a traves de la experiencia y ver el sistema, los niveles de ansiedad disminuyen - -->
+
+@tophatfall2020 did a major survey on undergraduate students’ and teachers’ perceptions at the beginning of the online emergency switch in US universities. 
+Their findings within students taking a language class were that overall, the quality of instruction received was worse in comparison to the in-person learning setting. 
+In the same way, a vast majority of students felt that the class experience was unengaging as they missed spending time with faculty and fellow students. 
+Within this swift change to online settings, many students also found that their academic load was not only reduced but also experienced problems with using online tools.<!--- conexion con como progresivamente la situacion fue mejorando. 
+
+
+<!--- i'm going to think about how to rework these examples into a paragraph that flows a little better 
+
+Furthermore, @webb2014flipping studied the attitudes of students and teachers in a flipped online classroom of Chinese. 
 Their results showed an incremental fluctuation in their perception. 
 That is, they found distance education would not meet student expectations at first, but through the semester they found a growing acceptance that led to successful results by the end of a 15-week term. 
 A similar psychological development is observed in @ushida2005role study which investigated the changes in students’ attitudes and motivation over time in online language courses. 
@@ -96,40 +150,33 @@ While the immediate transition to online education seemed rushed in @ruiz2022tra
 Their study of US undergraduates found varied responses in which some students enjoyed the increased autonomy and self-paced learning opportunities offered by the new online format. 
 Along the same line, a survey of university students found a common belief that online education helped them continue their education while still learning, observing, and improving the quality of teaching as their professors gained more experience with the teaching instruments [@chakraborty2021opinion]. ---> 
 
-The outbreak of COVID-19 has caused online teaching and learning to evolve very rapidly during the past two years. 
-<!--- This was a global phenomenon in the history of language education which had many educational consequences that students most likely will continue to experience when approaching online education. - maybe delete this ---> 
-With a global decrease in Covid-19 cases, most US universities slowly began to switch to a pre-pandemic educational setting or blend hybrid classes. <!--- idk if we can say "global decrease" maybe something like "with a push to return to pre-covid practices" ---> 
-The goal of this paper is twofold, first to identify attitudes towards online language education it in a context where online education is no longer mandatory and to better understand how our new post-pandemic reality modulates tendencies in university language class enrollment.
-
-\newpage
 
 
-
-# Previous literature and theoretical framework
-
-<!--- i don't know if this paragraph is necessary "Education mirrors society and its challenges, with Covid-19 as a global example of the adaptations that educators around the world had to implement in order to continue providing education to their students. 
-In this sense, education can be understood as a continuum that has endlessly developed according to the socioeconomic changes that society experiences throughout history." --->
-
-
-The goal of the current paper is to gather information from our current students who are in an educational environment that has been in continuous change for the past few years. 
-The effects of this ever-changing learning environment have affected students and continue to affect the way they interact with and view their education. 
-Post-pandemic effects, along with world socio-economic changes such as inflation and the need to work, have brought a new educational reality that affects tendencies toward language enrollment. 
-
-<!-- i think this is what needs to be worked on, if you have something in the introcution that fits in any of these categories, add it below and we can work it into a few paragraph to motivate the study ---> 
-
-## Online learning
-
-#### Effectiveness
 
 #### Motivation
 
-#### Perception / attitudes
+
+With the decrease in covid cases, most major US universities are looking to transition into face-to-face settings, creating a new reality within language education. 
+A global survey [@widenhorn2023comparing] of more than 5.000 university students revealed that more than four in five students (82%) would still want to have at least some of their courses online after having passed two years of the global pandemic. 
+Similarly, two in five university students (41%) would still prefer to continue online without physical interaction with the educational classroom. 
+When asked what factors other than the pandemic had an impact, students replied with the economy (73%), location or transportation (44%), and lack of access to technology (35%)
+This is the most extensive study that tackles the shift toward face-to-face education after the online pandemic to date. 
+However, this study is broad as it covers several countries with different economic needs and transportation necessities. 
+Therefore, our study aims to provide more fine-grained detail about the post-pandemic tendencies in a North Eastern US university ....
 
 ## Grounded theory
 
 In order to study and understand tendencies in online learning, we turned to Grounded Theory, as it allows for a cyclical observation of a changing world, where the researcher is a constant observer of the changes produced [@hernandez2014investigacion]. 
-This theoretical approach allowed us to employ a mixed models questionnaire that included qualitative, quantitative, and open-ended questions aimed at gaining information about the participant's experience, attitudes, and motivations for taking online vs. in-person language classes. 
-Due to the geographical limitations, we adopt a substantive Grounded Theory that helps explain the tendencies seen within our community of students and the factors that affect them [@corbin2014basics]. <!--- can you elaborate on this? ---> 
+This theoretical approach allows the research team to explain the relationships among categories within the same reality. 
+It is a constant comparison methodology of data of the reality being studied, where the hypothesis are formulated throughout the research process. 
+This was performed via student evaluations, which allowed to test the thematic coding structuration and check for unanticipated topics. 
+In this step, the most noteworthy categories were selected (axial coding) with the intention of making a posterior analysis (selected coding). 
+A Qualtrics Survey followed this initial observation, which allowed us to employ a mixed models questionnaire that included qualitative, quantitative, and open-ended questions aimed at gaining information about the participant's experience, attitudes, and motivations for taking online vs. in-person language classes. 
+We then tested each category in... (add statisct analysis used). 
+
+Due to the geographical limitations, we adopt a substantive Grounded Theory that helps explain the tendencies seen within a specific area, along with the factors that affect them [@corbin2014basics].
+Thus we understand that the results we obtain might be limited to the area from where the information is being extracted.  
+Social factors such as distance from campus, commuting time, working hours, or access to the internet might be geographically dependent and not extrapolable to other areas or countries. 
 
 
 # Current Study
