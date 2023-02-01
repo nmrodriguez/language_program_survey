@@ -76,20 +76,18 @@ The development of online education has been evolving over the past few decades,
 Of particular interest is the research and development of online language education along with technological advances that made possible an evolution in the quality and accessibility of the materials. 
 For example, implementing online tools such as Zoom, VoiceThread, FlipGrid, etc, allowed students to hold conversations, share ideas and provide their opinions in a similar way to a traditional online setting. 
 
-According to the National Center for Education Statistics (2022), during the fall of 2020 over 75 percent of undergraduate students (11.8 million) were enrolled in at least one online course, whereas 44 percent (7.0 million) of all undergraduate students exclusively enrolled in online courses [@nationalstatistics_2022]. 
+According to the [@nationalstatistics_2022], during the fall of 2020 over 75 percent of undergraduate students (11.8 million) were enrolled in at least one online course, whereas 44 percent (7.0 million) of all undergraduate students exclusively enrolled in online courses [@nationalstatistics_2022]. 
 Compared to Fall 2019, these numbers represent a 97 percent increase in undergraduates taking at least one online course (11.8 million vs. 6.0 million) and a 186 percent increase in undergraduate students enrolled exclusively in online courses (7.0 million vs. 2.4 million).
 
 <!--- I think the above sentence might be unnecessary bc we don't necessarily talk about communicative strategies --> 
 <!--- IAR Two lines convined --> 
 <!--- for example, x, y, z helps students to do a, b, and c. then start with the next sentence--->  
-However, the Covid-19 pandemic appeared to be its hardest challenge to date, as many educators where not prepare for the online transition @tomasik2021educational. <!--- in what way? are we saying covid was a challenge for online learning? this seems to go against the previous sentences saying that techology had advanced and online learning has developed-->
+ Even though many programs already had online versions of their courses,   the Covid-19 pandemic postulated a challenge to many educators, as they were not prepared and, in some cases, lacked of experience teaching the online modality  @tomasik2021educational <!--- in what way? are we saying covid was a challenge for online learning? this seems to go against the previous sentences saying that techology had advanced and online learning has developed-->
 
 
-The outbreak of COVID-19 has caused online teaching and learning to evolve rapidly during the past two years due to the national online swift. 
-However, with the progressive decrease in global covid cases, universities are adopting a pre-pandemic approach, making students return to the educational classroom.  
 
 <!--- This was a global phenomenon in the history of language education which had many educational consequences that students most likely will continue to experience when approaching online education. - maybe delete this ---> 
-With a global decrease in Covid-19 cases, most US universities slowly began to switch to a pre-pandemic educational setting or blend hybrid classes. <!--- idk if we can say "global decrease" maybe something like "with a push to return to pre-covid practices" ---> 
+With a global decrease in Covid-19 cases, most US universities are slowly beginning to switch to a pre-pandemic educational setting or blend hybrid classes. <!--- idk if we can say "global decrease" maybe something like "with a push to return to pre-covid practices" ---> 
 The goal of this paper is twofold, first to identify attitudes towards online language education it in a context where online education is no longer mandatory and, second to better understand how our new post-pandemic reality modulates tendencies in university language class enrollment.
 
 \newpage
